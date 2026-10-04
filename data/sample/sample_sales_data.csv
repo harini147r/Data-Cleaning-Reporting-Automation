@@ -1,0 +1,1201 @@
+﻿order_id,customer_name,order_date,region,product_category,product_name,quantity,unit_price,total_revenue,status
+ORD-00947,JAMES WHITE,2023-11-05,s,elec,Gaming Mouse,16.0,68.22,1091.52,PENDING
+ORD-01148,samuel young,Mar 24 2023,SOUTH,elec,Laptop Pro 15,13.0,599.51,,cancel
+ORD-00641,Olivia Lewis,18/11/2023,South,food,  Green Tea Box  ,4.0,290.22,1160.88,cancel
+ORD-01169,XAVIER NELSON,Mar 06 2023,West,Electronics,Gaming Mouse,20.0,361.99,,pending
+ORD-00881,Alice Johnson,2023-09-20,South,food & bev,Granola Mix,1.0,1359.26,1359.26,RETURNED
+ORD-01026,Zoe Mitchell,Jan 16 2023,s,cloth,Polo Shirt,18.0,854.23,15376.14,completed
+ORD-00935,Tina King,2023-07-20,n,electronics,Wireless Headphones,14.0,164.91,2308.74,canceled
+ORD-00942,Rachel Allen,May 19 2024,s,Food & Beverage,Green Tea Box,,748.17,13467.06,canceled
+ORD-00233,Tina King,08/08/2024,NORTH,Food & Beverage,Green Tea Box,11.0,635.62,6991.82,COMPLETED
+ORD-00453,Frank Thomas,2024-09-12,east,Books,The Pragmatic Programmer,7.0,371.16,2598.12,Cancelled
+ORD-00991,Wendy Baker,04/07/2024,EAST,cloth,Polo Shirt,13.0,1145.45,14890.85,Completed
+ORD-00861,bob smith,Oct 08 2024,EAST,Sports,Protein Shaker,11.0,1019.95,11219.45,COMPLETED
+ORD-01062,Rachel Allen,2024-06-23,EAST,Clothing,Running Shoes,4.0,764.0,3056.0,done
+ORD-01173,JAMES WHITE,2023-07-26,West,cloth,Yoga Pants,5.0,564.91,2824.55,pending
+ORD-00587,Quinn Walker,26/11/2023,East,books,ML Fundamentals,12.0,-1369.45,16433.4,Pending
+ORD-00875,Zoe Mitchell,Jan 04 2024,NORTH,toys,RC Car,14.0,817.75,11448.5,Complete
+ORD-00838,Olivia Lewis,24/06/2023,e,books,Python Data Science,4.0,530.4,2121.6,done
+ORD-01160,Rachel Allen,2024-10-29,east,Furniture,Filing Cabinet,,373.24,,cancel
+ORD-01139,Rachel Allen,10/08/2023,north,Books,The Pragmatic Programmer,,1339.57,2679.14,RETURNED
+ORD-00298,Noah Garcia,2024-10-02,East,clothing,Polo Shirt,8.0,398.16,3185.28,Cancelled
+ORD-00092,  David Lee  ,2024-06-16,West,CLOTHING,Winter Jacket,1.0,869.09,869.09,pending
+ORD-00725,Karen Harris,2023-06-09,EAST,Electronics,USB-C Hub,5.0,1421.94,,Cancelled
+ORD-00425,Karen Harris,2024-03-08,south,ELECTRONICS,USB-C Hub,14.0,1390.11,19461.54,pend
+ORD-00077,CAROL DAVIS,2023-04-09,North,electronics,Smart Watch,-7.0,483.87,3387.09,COMPLETED
+ORD-00509,Yara Carter,2023-05-21,south,electronics,Laptop Pro 15,16.0,155.31,,cancel
+ORD-00140,henry brown,03/02/2023,north,toys,LEGO Classic Set,7.0,1256.28,,CANCELLED
+ORD-01198,Rachel Allen,01/12/2023,North,book,Python Data Science,20.0,1095.2,21904.0,completed
+ORD-01028,Zoe Mitchell,10/04/2023,south,cloth,  Running Shoes  ,2.0,1357.47,2714.94,COMPLETED
+ORD-00459,Yara Carter,09/11/2023,n,Clothing,Denim Jeans,15.0,670.81,10062.15,Pending
+ORD-00950,Isabella Clark,2023-02-25,e,furn,Bookshelf,17.0,1021.94,17372.98,CANCELLED
+ORD-00302,CAROL DAVIS,Apr 03 2023,east,sports,Foam Roller,1.0,1106.7,1106.7,CANCELLED
+ORD-00107,Grace Martinez,Dec 18 2024,West,sports,Yoga Mat,10.0,427.13,4271.3,Complete
+ORD-00649,Yara Carter,Sep 28 2023,EAST,sport,Protein Shaker,9.0,921.33,8291.97,cancel
+ORD-00897,  David Lee  ,2024-09-24,n,clothing,  Yoga Pants  ,3.0,509.91,342152.4,PENDING
+ORD-01064,Mia Thompson,Jan 08 2024,North,,Board Game Deluxe,17.0,768.07,13057.19,PENDING
+ORD-00560,Uma Scott,Jul 26 2024,NORTH,,Jump Rope,12.0,552.82,6633.84,pending
+ORD-00355,JAMES WHITE,25/05/2024,WEST,ELECTRONICS,  Wireless Headphones  ,7.0,516.16,3613.12,completed
+ORD-00563,Tina King,2024-03-12,WEST,elec,Laptop Pro 15,10.0,463.21,4632.1,CANCELLED
+ORD-00852,Tina King,06/09/2024,e,electronics,Wireless Headphones,11.0,842.43,9266.73,Returned
+ORD-00573,liam jackson,Dec 24 2023,North,furniture,Bookshelf,19.0,72.45,1376.55,cancelled
+ORD-00065,liam jackson,14/10/2024,east,cloth,Denim Jeans,6.0,1179.66,,Completed
+ORD-00780,XAVIER NELSON,2024-05-05,SOUTH,furniture,Office Chair,15.0,985.68,14785.2,pend
+ORD-00002,Tina King,2024-07-26,NORTH,CLOTHING,Yoga Pants,17.0,531.4,9033.8,Returned
+ORD-00546,Tina King,2023-03-13,EAST,furn,Bookshelf,8.0,154.57,1236.56,returned
+ORD-00084,Yara Carter,05/06/2024,West,books,ML Fundamentals,3.0,252.45,757.35,canceled
+ORD-00156,henry brown,Feb 10 2023,EAST,Books,Clean Code,20.0,1378.32,27566.4,canceled
+ORD-00805,CAROL DAVIS,2023-09-14,SOUTH,Toys,RC Car,3.0,439.53,1318.59,returned
+ORD-00926,henry brown,21/04/2023,e,elec,Gaming Mouse,5.0,986.82,4934.1,
+ORD-00569,Quinn Walker,Jun 19 2024,south,Food & Beverage,  Green Tea Box  ,,1486.52,22297.8,CANCELLED
+ORD-00178,samuel young,Nov 22 2023,e,toys,RC Car,6.0,268.27,1609.62,Completed
+ORD-00738,XAVIER NELSON,18/11/2023,North,furniture,Coffee Table,18.0,,23597.1,pend
+ORD-00959,Rachel Allen,12/08/2023,north,Books,Python Data Science,16.0,958.43,15334.88,COMPLETED
+ORD-00288,henry brown,12/06/2024,e,toys,LEGO Classic Set,13.0,1459.15,,CANCELLED
+ORD-00993,henry brown,02/10/2024,SOUTH,furniture,Coffee Table,12.0,381.29,4575.48,Returned
+ORD-01119,Emma Wilson,Oct 05 2023,north,toy,Art Kit,18.0,720.76,12973.68,Complete
+ORD-00976,,2023-10-30,north,clothing,Denim Jeans,5.0,1259.88,6299.4,CANCELLED
+ORD-00304,JAMES WHITE,Jul 12 2023,,Toys,LEGO Classic Set,20.0,21.41,428.2,completed
+ORD-00115,Yara Carter,27/11/2023,EAST,furniture,Bookshelf,14.0,95.9,1342.6,cancel
+ORD-00466,Olivia Lewis,2024-11-16,e,sports,Resistance Bands,3.0,338.46,1015.38,Returned
+ORD-00672,Yara Carter,Nov 25 2024,west,books,Clean Code,18.0,1242.15,22358.7,RETURNED
+ORD-00985,Emma Wilson,Nov 10 2024,south,elec,Laptop Pro 15,2.0,19.46,38.92,cancelled
+ORD-00516,Yara Carter,Sep 20 2024,West,elec,USB-C Hub,3.0,,1542.57,cancelled
+ORD-00608,Yara Carter,2023-03-16,NORTH,toys,RC Car,6.0,1145.28,6871.68,Completed
+ORD-01035,Noah Garcia,Sep 24 2024,North,Food & Beverage,Coconut Oil,7.0,1151.6,8061.2,returned
+ORD-00295,CAROL DAVIS,Feb 23 2024,w,food & bev,Green Tea Box,10.0,1247.77,12477.7,done
+ORD-01192,Noah Garcia,Feb 10 2023,West,Clothing,Denim Jeans,20.0,1284.65,25693.0,PENDING
+ORD-00372,Tina King,Oct 19 2023,WEST,sport,Protein Shaker,8.0,1454.53,11636.24,PENDING
+,Olivia Lewis,Jan 01 2023,West,book,Clean Code,,814.7,,Pending
+ORD-00826,Emma Wilson,27/06/2024,North,Toys,Puzzle 1000pc,13.0,714.51,9288.63,Cancelled
+ORD-01090,Emma Wilson,Jul 03 2023,north,clothing,Denim Jeans,5.0,247.38,1236.9,cancel
+ORD-00548,peter hall,12/07/2023,North,Food & Beverage,Granola Mix,9.0,1052.21,9469.89,done
+ORD-00082,Emma Wilson,2024-02-02,East,Books,Python Data Science,14.0,838.14,11733.96,pending
+ORD-00259,Alice Johnson,2023-10-31,west,clothing,Yoga Pants,18.0,630.13,11342.34,Cancelled
+ORD-00443,Wendy Baker,2024-06-12,east,Food & Beverage,Granola Mix,18.0,1401.77,25231.86,COMPLETED
+ORD-00022,Wendy Baker,Dec 27 2024,south,Toys,Art Kit,10.0,1277.79,12777.9,CANCELLED
+ORD-00685,Grace Martinez,29/04/2024,east,electronics,Wireless Headphones,4.0,784.1,3136.4,cancelled
+ORD-00221,Tina King,24/02/2023,North,books,The Pragmatic Programmer,11.0,,13901.47,returned
+ORD-00016,Mia Thompson,25/03/2023,s,Electronics,USB-C Hub,17.0,564.07,,Completed
+ORD-00016,peter hall,Oct 14 2023,n,clothing,  Winter Jacket  ,11.0,321.91,3541.01,cancel
+ORD-00928,Olivia Lewis,2023-12-03,East,Food & Beverage,Organic Coffee 1kg,20.0,1482.88,29657.6,cancelled
+ORD-00645,Karen Harris,10/10/2023,NORTH,ELECTRONICS,Wireless Headphones,11.0,239.31,2632.41,cancelled
+ORD-00746,  David Lee  ,Aug 10 2024,n,books,ML Fundamentals,6.0,386.4,2318.4,
+ORD-00037,Isabella Clark,Oct 27 2024,e,sports,Resistance Bands,3.0,988.65,2965.95,completed
+ORD-01027,Emma Wilson,31/05/2024,East,furniture,Coffee Table,18.0,788.86,14199.48,pending
+ORD-00607,Olivia Lewis,13/02/2024,east,Food & Beverage,Protein Bar Pack,4.0,83.52,334.08,returned
+ORD-00171,  David Lee  ,20/07/2023,n,sport,Resistance Bands,15.0,829.62,12444.3,CANCELLED
+ORD-00472,Isabella Clark,Dec 03 2024,North,furniture,Bookshelf,20.0,729.11,14582.2,done
+ORD-00808,XAVIER NELSON,26/05/2023,east,furniture,Coffee Table,3.0,178.52,535.56,cancelled
+ORD-00949,Mia Thompson,Feb 22 2023,west,cloth,Yoga Pants,7.0,926.32,6484.24,done
+ORD-00743,Olivia Lewis,2024-07-28,SOUTH,sports,  Protein Shaker  ,12.0,530.28,6363.36,Returned
+ORD-00109,Wendy Baker,2024-06-18,North,book,Clean Code,2.0,691.76,1383.52,Cancelled
+ORD-01135,Victor Green,28/02/2024,e,sport,Protein Shaker,19.0,138.94,2639.86,CANCELLED
+ORD-00348,Zoe Mitchell,06/09/2024,EAST,Clothing,Yoga Pants,2.0,1209.12,2418.24,done
+ORD-00185,Uma Scott,22/08/2024,East,food & bev,Protein Bar Pack,4.0,236.39,945.56,cancel
+ORD-00003,Isabella Clark,2023-07-08,NORTH,food & bev,Granola Mix,17.0,,,cancel
+ORD-01137,Olivia Lewis,23/02/2024,north,CLOTHING,Running Shoes,7.0,1455.04,10185.28,returned
+ORD-01003,Grace Martinez,22/07/2024,e,sport,Foam Roller,6.0,714.93,4289.58,cancel
+ORD-00972,Isabella Clark,24/09/2023,south,Furniture,Standing Desk,14.0,116.17,1626.38,canceled
+,Noah Garcia,2023-02-25,,CLOTHING,Yoga Pants,13.0,797.11,10362.43,pending
+ORD-00946,Rachel Allen,Apr 18 2024,east,Books,Clean Code,15.0,848.05,12720.75,Completed
+ORD-01130,XAVIER NELSON,24/11/2024,s,cloth,Polo Shirt,11.0,631.5,6946.5,Complete
+ORD-00196,peter hall,2024-04-22,w,Toys,Board Game Deluxe,12.0,771.66,9259.92,cancelled
+ORD-00520,CAROL DAVIS,13/12/2023,West,Clothing,Winter Jacket,17.0,1415.75,24067.75,Pending
+ORD-00297,Olivia Lewis,Apr 22 2024,e,toys,LEGO Classic Set,11.0,965.3,,done
+ORD-00735,Victor Green,2024-12-17,n,food,Coconut Oil,7.0,259.8,1818.6,cancel
+ORD-00895,Rachel Allen,09/12/2023,South,Food & Beverage,Granola Mix,10.0,131.0,1310.0,RETURNED
+ORD-00491,XAVIER NELSON,2023-06-12,n,toys,Art Kit,3.0,72.17,216.51,Complete
+ORD-00449,Grace Martinez,May 18 2023,SOUTH,food,Organic Coffee 1kg,7.0,216.79,1517.53,CANCELLED
+ORD-00136,XAVIER NELSON,2023-08-08,west,books,The Pragmatic Programmer,3.0,1426.49,4279.47,COMPLETED
+ORD-00406,,2024-09-24,south,books,The Pragmatic Programmer,3.0,1142.55,3427.65,PENDING
+ORD-00421,,2024-06-08,South,cloth,Winter Jacket,19.0,245.89,4671.91,completed
+ORD-00110,JAMES WHITE,May 29 2024,n,toy,Board Game Deluxe,2.0,900.33,1800.66,pend
+ORD-00781,liam jackson,20/07/2024,west,Electronics,Smart Watch,15.0,738.45,11076.75,Pending
+ORD-00499,XAVIER NELSON,2024-05-30,South,Sports,Resistance Bands,4.0,500.32,2001.28,Completed
+ORD-01038,Yara Carter,11/10/2023,NORTH,clothing,Polo Shirt,8.0,47.52,380.16,CANCELLED
+ORD-00393,XAVIER NELSON,06/10/2023,n,CLOTHING,Polo Shirt,15.0,638.49,9577.35,canceled
+ORD-00828,,May 19 2024,east,food & bev,Protein Bar Pack,19.0,217.44,4131.36,Pending
+ORD-00873,Karen Harris,2024-01-05,NORTH,Furniture,Standing Desk,5.0,1110.78,5553.9,Completed
+ORD-00442,Emma Wilson,29/12/2024,west,furn,Filing Cabinet,12.0,684.19,8210.28,COMPLETED
+ORD-00633,Isabella Clark,Jun 10 2024,n,toy,Art Kit,10.0,437.55,4375.5,done
+ORD-00027,Karen Harris,29/12/2024,West,furniture,Office Chair,19.0,,11294.17,canceled
+ORD-00627,Grace Martinez,2024-11-05,south,,ML Fundamentals,4.0,1131.49,,Pending
+ORD-00803,peter hall,Aug 06 2023,w,sports,Protein Shaker,11.0,1494.68,16441.48,Complete
+ORD-00146,bob smith,Jan 18 2023,east,toys,LEGO Classic Set,8.0,711.49,342152.4,PENDING
+ORD-01108,Noah Garcia,2023-06-21,North,Books,The Pragmatic Programmer,17.0,1448.46,24623.82,done
+ORD-00728,peter hall,Jun 19 2024,s,books,ML Fundamentals,5.0,607.78,3038.9,completed
+ORD-00600,Yara Carter,12/09/2023,West,book,SQL Cookbook,20.0,1374.29,27485.8,cancelled
+ORD-00033,,16/04/2024,,Books,ML Fundamentals,13.0,1235.92,16066.96,pend
+ORD-00528,Isabella Clark,Jun 17 2023,WEST,CLOTHING,Running Shoes,6.0,58.61,351.66,cancel
+ORD-00689,JAMES WHITE,Jan 30 2023,n,Books,ML Fundamentals,11.0,262.45,2886.95,PENDING
+ORD-00013,henry brown,18/05/2023,WEST,Furniture,Coffee Table,4.0,1458.88,5835.52,cancelled
+ORD-00284,liam jackson,31/10/2024,s,sport,Protein Shaker,,53909.9,,Returned
+ORD-00943,JAMES WHITE,Jan 04 2024,,Books,Python Data Science,6.0,1311.84,7871.04,cancel
+ORD-00023,henry brown,07/04/2023,n,Electronics,USB-C Hub,18.0,1123.38,20220.84,done
+ORD-00868,Noah Garcia,05/11/2023,EAST,Food & Beverage,Organic Coffee 1kg,4.0,,4982.52,CANCELLED
+ORD-00237,peter hall,2024-12-11,e,toys,RC Car,9.0,943.85,8494.65,RETURNED
+ORD-00163,Noah Garcia,26/05/2024,East,furn,Standing Desk,13.0,188.53,2450.89,canceled
+ORD-01072,Tina King,23/09/2024,s,CLOTHING,Winter Jacket,1.0,1144.86,1144.86,PENDING
+ORD-00343,liam jackson,Dec 30 2023,east,books,SQL Cookbook,1.0,523.44,523.44,PENDING
+ORD-00637,Victor Green,Sep 13 2023,n,books,SQL Cookbook,4.0,,,Cancelled
+ORD-00176,Frank Thomas,Jan 02 2024,SOUTH,Sports,Resistance Bands,15.0,418.97,6284.55,CANCELLED
+ORD-00554,samuel young,2023-12-27,North,food,Protein Bar Pack,12.0,148.27,1779.24,done
+ORD-00844,henry brown,Nov 24 2024,s,books,Python Data Science,13.0,952.32,12380.16,cancelled
+ORD-00497,XAVIER NELSON,2023-04-12,w,furniture,Standing Desk,18.0,11.47,206.46,CANCELLED
+ORD-00354,Alice Johnson,Apr 20 2024,east,Toys,RC Car,18.0,680.35,,Pending
+ORD-00320,Rachel Allen,2023-02-24,e,sports,Resistance Bands,2.0,556.99,,Complete
+ORD-00309,peter hall,21/01/2023,,clothing,Running Shoes,15.0,1445.98,21689.7,pending
+ORD-00890,Isabella Clark,Oct 12 2023,,sport,Yoga Mat,9.0,208.96,1880.64,completed
+ORD-00752,XAVIER NELSON,Aug 17 2024,SOUTH,Clothing,Denim Jeans,4.0,975.31,3901.24,PENDING
+ORD-00585,Olivia Lewis,23/09/2024,EAST,cloth,Running Shoes,3.0,269.73,809.19,Returned
+ORD-00630,Zoe Mitchell,2023-08-31,south,books,SQL Cookbook,8.0,1472.09,11776.72,canceled
+ORD-01136,Alice Johnson,Dec 22 2024,,sport,  Jump Rope  ,9.0,984.19,8857.71,cancelled
+ORD-00303,Yara Carter,24/07/2024,South,books,The Pragmatic Programmer,12.0,1155.21,13862.52,RETURNED
+ORD-00475,Alice Johnson,05/01/2024,South,cloth,Polo Shirt,3.0,794.79,2384.37,canceled
+ORD-00661,Zoe Mitchell,Nov 29 2024,South,food,Protein Bar Pack,16.0,827.43,13238.88,cancelled
+ORD-00937,Alice Johnson,Feb 13 2023,w,clothing,Denim Jeans,13.0,1184.77,15402.01,done
+ORD-00847,Wendy Baker,08/06/2024,EAST,furniture,Coffee Table,5.0,622.05,3110.25,pending
+ORD-00707,  David Lee  ,2023-01-27,south,sport,Yoga Mat,20.0,723.09,14461.8,Cancelled
+ORD-00612,JAMES WHITE,2023-08-22,north,electronics,USB-C Hub,12.0,650.12,7801.44,Completed
+ORD-00305,CAROL DAVIS,Apr 24 2023,w,food & bev,Granola Mix,1.0,24.06,24.06,done
+ORD-00139,JAMES WHITE,2024-12-05,south,elec,Wireless Headphones,20.0,,14355.0,cancelled
+ORD-00010,Tina King,2024-05-14,e,Food & Beverage,Coconut Oil,2.0,1403.44,2806.88,Completed
+ORD-00031,Yara Carter,,south,elec,Wireless Headphones,19.0,-1177.5,22372.5,cancelled
+ORD-00486,  David Lee  ,Apr 19 2023,n,sport,Resistance Bands,19.0,876.1,16645.9,Cancelled
+ORD-00588,JAMES WHITE,06/03/2024,e,Food & Beverage,Organic Coffee 1kg,,1117.59,8940.72,pend
+ORD-00341,Karen Harris,07/10/2023,North,Books,SQL Cookbook,12.0,,14492.76,Pending
+ORD-00338,liam jackson,2023-05-28,West,elec,USB-C Hub,11.0,838.96,9228.56,RETURNED
+ORD-00567,Tina King,2024-08-27,n,sport,Protein Shaker,5.0,782.03,3910.15,canceled
+ORD-00167,Wendy Baker,2024-03-03,WEST,furn,Office Chair,7.0,646.05,4522.35,Returned
+ORD-00794,XAVIER NELSON,2024-03-16,South,Clothing,Denim Jeans,4.0,16.56,66.24,canceled
+ORD-00524,Karen Harris,26/05/2023,EAST,clothing,Winter Jacket,10.0,587.96,5879.6,pend
+ORD-00609,Uma Scott,01/06/2023,South,clothing,  Running Shoes  ,8.0,,3530.48,pend
+ORD-00894,Noah Garcia,Feb 06 2023,,elec,USB-C Hub,1.0,,,COMPLETED
+ORD-00845,Karen Harris,Mar 20 2024,South,furniture,Bookshelf,17.0,896.57,15241.69,cancelled
+ORD-01031,Isabella Clark,Apr 06 2023,e,CLOTHING,Running Shoes,10.0,242.67,2426.7,pend
+ORD-00951,Alice Johnson,2024-05-24,North,electronics,Laptop Pro 15,9.0,1166.97,10502.73,completed
+ORD-01046,Olivia Lewis,29/08/2024,West,Food & Beverage,Granola Mix,,1325.23,26504.6,Completed
+ORD-00235,Isabella Clark,16/06/2023,WEST,Toys,RC Car,19.0,1154.67,21938.73,PENDING
+ORD-00815,Grace Martinez,Dec 15 2023,South,ELECTRONICS,Laptop Pro 15,,728.96,10205.44,cancelled
+ORD-01157,bob smith,22/01/2024,NORTH,Food & Beverage,Granola Mix,3.0,1461.92,4385.76,
+ORD-00431,Zoe Mitchell,Jun 15 2023,SOUTH,food & bev,Granola Mix,12.0,1194.98,14339.76,Cancelled
+ORD-00363,Grace Martinez,2023-05-14,east,Toys,RC Car,3.0,586.54,1759.62,cancel
+ORD-00702,,03/09/2023,West,book,ML Fundamentals,13.0,446.84,5808.92,Complete
+ORD-00224,Uma Scott,27/06/2024,West,Furniture,Filing Cabinet,20.0,1240.9,24818.0,Completed
+ORD-00931,Victor Green,Jan 05 2023,s,Sports,Yoga Mat,17.0,289.91,4928.47,PENDING
+ORD-00981,peter hall,20/09/2023,South,Sports,Yoga Mat,15.0,390.63,5859.45,Complete
+ORD-01082,Karen Harris,13/01/2024,NORTH,toys,Board Game Deluxe,3.0,,3461.79,cancel
+ORD-00816,Mia Thompson,2023-02-08,East,Food & Beverage,Granola Mix,13.0,1284.38,16696.94,Complete
+ORD-00114,Yara Carter,12/09/2023,,CLOTHING,Denim Jeans,1.0,187.33,187.33,PENDING
+ORD-00916,Rachel Allen,10/12/2023,west,Food & Beverage,Green Tea Box,15.0,1338.63,20079.45,completed
+ORD-00699,XAVIER NELSON,18/03/2024,West,toy,Puzzle 1000pc,6.0,1350.45,8102.7,Pending
+ORD-00740,Emma Wilson,Jul 23 2024,WEST,clothing,Denim Jeans,16.0,1146.69,18347.04,completed
+ORD-00800,Olivia Lewis,Apr 04 2023,SOUTH,sports,Protein Shaker,4.0,1423.77,5695.08,Completed
+ORD-00708,Alice Johnson,Sep 15 2024,WEST,Food & Beverage,Protein Bar Pack,16.0,105.93,,canceled
+ORD-00514,Frank Thomas,Dec 25 2023,WEST,CLOTHING,Denim Jeans,1.0,1155.67,1155.67,done
+ORD-00889,Frank Thomas,27/03/2024,North,food,  Organic Coffee 1kg  ,15.0,29.34,440.1,cancel
+ORD-00793,bob smith,02/09/2023,WEST,sport,Yoga Mat,8.0,455.22,3641.76,COMPLETED
+ORD-00557,Quinn Walker,Oct 28 2023,WEST,sport,Yoga Mat,2.0,1419.59,2839.18,done
+ORD-00749,JAMES WHITE,2023-06-15,East,Toys,LEGO Classic Set,15.0,474.01,7110.15,
+ORD-00956,Grace Martinez,Feb 21 2024,w,Furniture,Coffee Table,3.0,285.96,857.88,RETURNED
+ORD-00753,peter hall,21/05/2024,East,Books,Clean Code,12.0,790.59,9487.08,canceled
+ORD-00854,liam jackson,Sep 12 2024,SOUTH,,RC Car,17.0,1366.62,23232.54,Complete
+ORD-01043,JAMES WHITE,08/01/2024,SOUTH,books,ML Fundamentals,11.0,254.11,2795.21,returned
+ORD-00584,Alice Johnson,Jul 04 2024,n,Sports,Resistance Bands,9.0,269.22,2422.98,canceled
+ORD-00279,Karen Harris,2024-08-29,n,cloth,Denim Jeans,3.0,171.52,514.56,CANCELLED
+ORD-00729,henry brown,Mar 02 2024,EAST,electronics,Gaming Mouse,14.0,340.65,4769.1,pend
+ORD-00337,CAROL DAVIS,Apr 15 2023,north,electronics,USB-C Hub,20.0,941.15,18823.0,completed
+ORD-00832,Olivia Lewis,30/09/2024,EAST,food & bev,Protein Bar Pack,15.0,1137.24,17058.6,Pending
+ORD-00312,Mia Thompson,Nov 04 2024,w,sports,  Yoga Mat  ,16.0,692.94,,Cancelled
+ORD-00766,Isabella Clark,2024-10-30,north,toy,LEGO Classic Set,4.0,876.24,,cancelled
+ORD-00929,Olivia Lewis,2023-04-27,west,Electronics,Wireless Headphones,,253.46,1013.84,returned
+ORD-00409,henry brown,Sep 05 2024,North,furniture,Coffee Table,20.0,53909.9,22583.8,Returned
+ORD-00703,CAROL DAVIS,17/04/2023,South,Toys,  LEGO Classic Set  ,13.0,788.35,10248.55,COMPLETED
+ORD-00684,,Nov 06 2023,south,Food & Beverage,Granola Mix,4.0,365.08,1460.32,canceled
+ORD-00688,  David Lee  ,2023-01-22,South,sports,Foam Roller,13.0,201.47,2619.11,CANCELLED
+ORD-00011,henry brown,02/05/2024,NORTH,book,SQL Cookbook,,861.21,13779.36,canceled
+ORD-01107,Emma Wilson,22/03/2023,n,Clothing,Running Shoes,10.0,192.39,1923.9,COMPLETED
+ORD-00368,CAROL DAVIS,Jan 18 2024,West,toys,Puzzle 1000pc,17.0,1291.7,21958.9,Complete
+ORD-00048,Tina King,Mar 15 2024,East,ELECTRONICS,USB-C Hub,6.0,79.43,476.58,done
+ORD-00020,Grace Martinez,16/09/2024,south,Furniture,Bookshelf,3.0,740.12,2220.36,returned
+ORD-00782,Isabella Clark,10/10/2023,w,Furniture,Filing Cabinet,3.0,663.46,1990.38,done
+ORD-00872,Victor Green,Jan 29 2024,n,Clothing,Denim Jeans,8.0,1382.93,11063.44,returned
+ORD-01165,Emma Wilson,2024-10-17,EAST,Furniture,  Coffee Table  ,5.0,1423.06,7115.3,completed
+ORD-00754,Emma Wilson,05/08/2023,,clothing,Denim Jeans,,569.45,9680.65,PENDING
+ORD-00617,Isabella Clark,2023-08-03,south,Food & Beverage,Green Tea Box,,12.05,24.1,returned
+ORD-00904,Wendy Baker,Sep 02 2024,WEST,elec,USB-C Hub,14.0,590.92,8272.88,CANCELLED
+ORD-00112,Noah Garcia,Aug 04 2023,EAST,food & bev,Organic Coffee 1kg,18.0,1498.24,26968.32,cancelled
+ORD-00056,Quinn Walker,,East,clothing,Running Shoes,8.0,522.3,4178.4,pending
+ORD-00446,Wendy Baker,2024-09-09,SOUTH,Furniture,Office Chair,10.0,1240.45,12404.5,cancelled
+ORD-00157,Uma Scott,2024-04-28,east,Electronics,Laptop Pro 15,10.0,1434.26,14342.6,cancel
+ORD-00116,XAVIER NELSON,Oct 24 2024,West,Books,Python Data Science,,1297.94,23362.92,PENDING
+ORD-01078,Alice Johnson,2023-09-04,NORTH,CLOTHING,  Winter Jacket  ,14.0,924.31,12940.34,Complete
+ORD-01080,Uma Scott,2024-08-15,north,book,Python Data Science,5.0,953.27,4766.35,pending
+ORD-00457,Quinn Walker,2023-10-13,WEST,Sports,Jump Rope,13.0,1481.35,19257.55,Complete
+ORD-00874,Wendy Baker,Feb 28 2024,EAST,clothing,Polo Shirt,-16.0,638.63,10218.08,done
+ORD-00117,Noah Garcia,Jul 19 2024,w,toys,Board Game Deluxe,13.0,,,Pending
+ORD-01000,Isabella Clark,Aug 03 2023,West,ELECTRONICS,Laptop Pro 15,12.0,1222.27,14667.24,Cancelled
+ORD-01116,bob smith,Dec 12 2024,east,sport,Protein Shaker,10.0,437.37,4373.7,pend
+ORD-00207,Isabella Clark,28/04/2024,SOUTH,book,Clean Code,12.0,781.47,9377.64,cancelled
+ORD-00518,Karen Harris,2023-11-19,e,books,The Pragmatic Programmer,11.0,559.32,6152.52,canceled
+ORD-00496,bob smith,2024-11-17,SOUTH,sport,Yoga Mat,1.0,574.4,574.4,pend
+ORD-00483,Tina King,Jul 23 2023,south,Sports,Yoga Mat,12.0,1301.72,15620.64,Cancelled
+ORD-00967,peter hall,2023-07-24,South,food & bev,Granola Mix,20.0,431.94,8638.8,COMPLETED
+ORD-01152,Yara Carter,14/12/2024,west,Electronics,Wireless Headphones,1.0,149.82,149.82,Cancelled
+ORD-00987,Grace Martinez,May 01 2023,w,CLOTHING,Denim Jeans,1.0,321.65,321.65,PENDING
+ORD-00118,JAMES WHITE,,east,electronics,USB-C Hub,19.0,82.17,1561.23,returned
+ORD-00200,Wendy Baker,Jan 07 2024,n,food & bev,Green Tea Box,13.0,467.36,6075.68,PENDING
+ORD-01015,henry brown,2023-04-06,north,sport,Protein Shaker,3.0,119.66,358.98,COMPLETED
+ORD-00795,liam jackson,11/03/2023,s,electronics,USB-C Hub,9.0,1122.24,,Complete
+ORD-00505,henry brown,2023-05-30,East,CLOTHING,Denim Jeans,2.0,845.97,1691.94,cancel
+ORD-00416,Emma Wilson,30/04/2024,North,sport,Foam Roller,10.0,1155.73,11557.3,Complete
+ORD-00807,Zoe Mitchell,Jun 28 2024,n,clothing,Polo Shirt,20.0,63.36,1267.2,COMPLETED
+ORD-00713,Frank Thomas,Aug 02 2024,South,toy,Puzzle 1000pc,5.0,672.1,3360.5,returned
+ORD-00262,Rachel Allen,26/11/2023,West,food & bev,Coconut Oil,13.0,1373.11,17850.43,Returned
+ORD-00289,Wendy Baker,Jan 26 2024,west,toys,Art Kit,11.0,568.63,6254.93,PENDING
+ORD-00825,Wendy Baker,Jan 12 2023,EAST,Sports,Resistance Bands,4.0,19.4,77.6,pending
+ORD-01124,liam jackson,Oct 13 2024,North,Clothing,Winter Jacket,1.0,353.33,353.33,
+ORD-01181,bob smith,Apr 16 2023,east,electronics,Gaming Mouse,11.0,702.98,7732.78,Completed
+ORD-00538,Victor Green,2024-09-27,n,food & bev,Organic Coffee 1kg,17.0,1201.67,20428.39,Returned
+ORD-00647,  David Lee  ,2023-08-13,east,Food & Beverage,Granola Mix,18.0,724.03,13032.54,cancel
+ORD-00893,Wendy Baker,2024-07-13,West,book,Python Data Science,19.0,1407.07,26734.33,cancel
+ORD-00034,JAMES WHITE,Aug 04 2023,e,toys,Art Kit,18.0,,25573.14,pending
+ORD-00272,peter hall,2023-08-07,SOUTH,toy,RC Car,12.0,1185.39,14224.68,Completed
+ORD-01065,CAROL DAVIS,27/08/2024,NORTH,CLOTHING,Denim Jeans,17.0,1480.02,25160.34,Completed
+ORD-00006,JAMES WHITE,07/03/2023,e,books,Python Data Science,3.0,474.29,1422.87,COMPLETED
+ORD-00183,Mia Thompson,07/09/2024,West,food,Granola Mix,12.0,1458.2,17498.4,Pending
+ORD-00915,  David Lee  ,2024-06-21,WEST,Toys,LEGO Classic Set,3.0,,68.64,CANCELLED
+ORD-01067,Noah Garcia,11/12/2024,,Electronics,Wireless Headphones,19.0,1330.94,,pending
+ORD-00966,  David Lee  ,2023-05-07,east,Electronics,Laptop Pro 15,8.0,571.06,4568.48,returned
+ORD-00819,Grace Martinez,Jul 28 2023,East,Books,  SQL Cookbook  ,7.0,1111.32,7779.24,returned
+ORD-01017,Zoe Mitchell,2024-12-14,WEST,books,  ML Fundamentals  ,17.0,594.51,10106.67,returned
+ORD-00447,peter hall,30/01/2023,s,Furniture,Office Chair,18.0,613.58,11044.44,Completed
+ORD-00282,Isabella Clark,16/08/2024,e,,  Denim Jeans  ,5.0,1269.56,6347.8,Pending
+ORD-00043,Yara Carter,Jan 12 2023,East,elec,Gaming Mouse,6.0,120.99,725.94,done
+ORD-00656,XAVIER NELSON,Sep 22 2023,south,food,Coconut Oil,4.0,708.82,2835.28,cancelled
+ORD-01178,Zoe Mitchell,Oct 09 2023,north,Clothing,Polo Shirt,15.0,948.92,14233.8,CANCELLED
+ORD-00667,bob smith,2023-01-08,east,food,  Protein Bar Pack  ,13.0,1476.75,,pending
+ORD-00127,Victor Green,04/09/2023,north,Sports,Foam Roller,6.0,154.7,928.2,PENDING
+ORD-00208,Yara Carter,2024-02-06,w,furn,Office Chair,-5.0,88.78,443.9,Pending
+ORD-00012,XAVIER NELSON,2023-07-15,East,furn,Office Chair,12.0,143.23,,canceled
+ORD-00119,Quinn Walker,2023-09-23,EAST,toy,Puzzle 1000pc,17.0,,19791.74,CANCELLED
+ORD-00046,Emma Wilson,2023-09-18,south,food & bev,Green Tea Box,15.0,1416.68,21250.2,Completed
+ORD-01008,Zoe Mitchell,2024-02-09,East,cloth,Polo Shirt,18.0,551.83,9932.94,Complete
+ORD-00367,Rachel Allen,05/05/2023,NORTH,food & bev,Green Tea Box,14.0,1488.62,20840.68,Complete
+ORD-01123,peter hall,22/12/2023,WEST,Food & Beverage,Organic Coffee 1kg,18.0,1397.92,25162.56,Completed
+ORD-01140,Yara Carter,2023-06-06,e,CLOTHING,  Yoga Pants  ,1.0,779.4,779.4,Complete
+ORD-00662,  David Lee  ,2023-12-12,North,Food & Beverage,Protein Bar Pack,3.0,1304.07,3912.21,cancelled
+ORD-00958,Frank Thomas,16/01/2023,EAST,sport,Yoga Mat,4.0,538.08,2152.32,Completed
+ORD-00657,XAVIER NELSON,Aug 20 2023,west,sports,Resistance Bands,19.0,1212.47,23036.93,COMPLETED
+ORD-00044,,Sep 08 2023,west,sport,Resistance Bands,5.0,539.01,2695.05,CANCELLED
+ORD-00843,Mia Thompson,04/11/2024,East,books,Clean Code,19.0,964.42,18323.98,completed
+ORD-00778,henry brown,2023-01-14,North,clothing,Denim Jeans,7.0,831.66,5821.62,RETURNED
+ORD-00252,henry brown,Nov 21 2023,e,Sports,Resistance Bands,,193.11,,Returned
+ORD-00822,,Oct 27 2023,w,Food & Beverage,Protein Bar Pack,6.0,1317.45,7904.7,returned
+ORD-00701,Frank Thomas,Jun 20 2024,West,Furniture,Filing Cabinet,,877.37,1754.74,done
+ORD-01036,Alice Johnson,15/09/2024,North,toy,  Board Game Deluxe  ,5.0,53909.9,4857.15,Completed
+ORD-00276,Grace Martinez,2023-02-20,South,Toys,Board Game Deluxe,18.0,1231.08,22159.44,
+ORD-00908,XAVIER NELSON,23/01/2024,north,Food & Beverage,Green Tea Box,18.0,1261.48,22706.64,pend
+ORD-00274,Quinn Walker,21/08/2024,SOUTH,Clothing,Denim Jeans,9.0,1309.91,11789.19,COMPLETED
+ORD-00314,Noah Garcia,29/10/2024,w,Clothing,Winter Jacket,12.0,505.8,6069.6,Cancelled
+ORD-00559,  David Lee  ,Dec 30 2024,south,ELECTRONICS,Wireless Headphones,20.0,751.87,15037.4,pend
+ORD-00060,liam jackson,24/10/2024,SOUTH,Food & Beverage,Granola Mix,6.0,86.73,520.38,pend
+ORD-01121,Mia Thompson,Mar 18 2023,north,ELECTRONICS,Gaming Mouse,5.0,957.64,4788.2,cancel
+ORD-00217,samuel young,2024-10-27,South,food,Protein Bar Pack,20.0,1334.87,26697.4,Cancelled
+ORD-00507,Noah Garcia,May 01 2024,s,Toys,Board Game Deluxe,4.0,478.15,,pend
+ORD-00269,Emma Wilson,Jul 20 2024,south,sports,Jump Rope,10.0,894.8,8948.0,pend
+ORD-00577,Emma Wilson,10/06/2024,north,clothing,Yoga Pants,6.0,117.31,703.86,cancel
+ORD-00384,Rachel Allen,29/04/2024,north,CLOTHING,Winter Jacket,10.0,775.5,7755.0,pending
+ORD-01005,Karen Harris,2023-10-07,,furniture,Bookshelf,2.0,1299.37,2598.74,cancel
+ORD-00423,samuel young,2024-11-02,w,furniture,Bookshelf,13.0,1418.99,18446.87,RETURNED
+ORD-00161,Mia Thompson,02/06/2024,,Furniture,  Standing Desk  ,2.0,1423.28,2846.56,cancel
+ORD-00619,Emma Wilson,May 14 2023,East,cloth,Denim Jeans,,9.24,184.8,Pending
+ORD-00397,CAROL DAVIS,Sep 07 2024,North,CLOTHING,Yoga Pants,,-618.18,9272.7,PENDING
+ORD-01162,Rachel Allen,Nov 07 2024,north,electronics,USB-C Hub,17.0,479.7,8154.9,Completed
+ORD-01086,Zoe Mitchell,2024-02-18,s,books,The Pragmatic Programmer,,1422.39,8534.34,PENDING
+ORD-00992,Olivia Lewis,22/03/2023,east,Sports,Protein Shaker,16.0,1163.24,18611.84,Returned
+ORD-01034,  David Lee  ,Oct 21 2024,NORTH,food & bev,Organic Coffee 1kg,10.0,843.76,8437.6,pending
+ORD-00693,Isabella Clark,Oct 03 2024,WEST,CLOTHING,Winter Jacket,13.0,959.91,12478.83,RETURNED
+ORD-00291,Rachel Allen,11/05/2024,w,elec,  USB-C Hub  ,12.0,1483.28,17799.36,Complete
+ORD-00818,Yara Carter,Jul 21 2024,w,clothing,  Polo Shirt  ,4.0,630.85,2523.4,Complete
+ORD-01154,Wendy Baker,03/11/2024,South,cloth,Yoga Pants,11.0,1382.99,15212.89,Cancelled
+ORD-00493,Noah Garcia,26/01/2024,west,sport,Protein Shaker,20.0,248.17,4963.4,Cancelled
+ORD-00249,  David Lee  ,Aug 29 2024,WEST,food,Organic Coffee 1kg,19.0,1255.94,23862.86,cancelled
+ORD-01007,Rachel Allen,,east,Books,SQL Cookbook,4.0,707.89,2831.56,Returned
+ORD-00366,bob smith,2023-09-01,NORTH,toy,Board Game Deluxe,11.0,657.6,7233.6,Completed
+ORD-00732,Alice Johnson,2024-08-30,w,Food & Beverage,Granola Mix,5.0,58.37,291.85,canceled
+ORD-00413,liam jackson,Jun 10 2023,east,book,Python Data Science,4.0,1306.95,5227.8,Returned
+ORD-00888,liam jackson,21/01/2023,east,food & bev,  Green Tea Box  ,16.0,1381.65,22106.4,Cancelled
+ORD-00191,henry brown,2023-01-25,west,elec,Gaming Mouse,14.0,-217.04,,canceled
+ORD-00332,Isabella Clark,14/10/2023,South,food,Granola Mix,7.0,1362.91,9540.37,completed
+ORD-00370,Rachel Allen,18/03/2024,SOUTH,toys,Puzzle 1000pc,9.0,1207.11,10863.99,done
+ORD-01047,Karen Harris,28/04/2023,NORTH,Furniture,Coffee Table,10.0,1121.11,11211.1,done
+ORD-00165,bob smith,08/11/2023,n,food & bev,Protein Bar Pack,4.0,213.97,855.88,
+ORD-00039,Wendy Baker,04/05/2024,south,sports,Jump Rope,9.0,1254.38,11289.42,Complete
+ORD-00339,JAMES WHITE,07/01/2023,SOUTH,Clothing,Running Shoes,5.0,454.83,2274.15,Complete
+ORD-00564,Karen Harris,Jan 23 2023,East,Clothing,  Denim Jeans  ,8.0,326.16,2609.28,RETURNED
+ORD-00694,  David Lee  ,,e,Toys,LEGO Classic Set,14.0,1334.27,18679.78,Returned
+ORD-00646,Frank Thomas,23/05/2024,East,furniture,Standing Desk,5.0,1053.74,5268.7,Pending
+ORD-00412,Noah Garcia,2024-04-17,North,food,Protein Bar Pack,14.0,,9835.0,cancel
+ORD-00511,samuel young,2024-09-02,north,furn,Standing Desk,11.0,1166.37,12830.07,done
+ORD-00543,bob smith,04/08/2023,East,furn,Coffee Table,6.0,1430.5,8583.0,cancelled
+ORD-00720,Yara Carter,02/06/2023,,Toys,Board Game Deluxe,,710.8,12794.4,PENDING
+ORD-00636,  David Lee  ,Dec 03 2023,WEST,CLOTHING,Polo Shirt,13.0,286.57,3725.41,Cancelled
+ORD-00696,Victor Green,27/07/2024,North,food,Organic Coffee 1kg,,923.61,16624.98,cancel
+ORD-00691,Quinn Walker,Jun 28 2024,n,cloth,Running Shoes,18.0,922.08,16597.44,cancel
+ORD-01039,CAROL DAVIS,07/08/2024,SOUTH,Sports,Foam Roller,9.0,1217.56,10958.04,COMPLETED
+ORD-00128,Grace Martinez,Jul 11 2024,WEST,book,ML Fundamentals,13.0,672.05,8736.65,CANCELLED
+ORD-00120,CAROL DAVIS,2024-10-25,South,,Denim Jeans,5.0,205.74,1028.7,returned
+ORD-00883,henry brown,2023-02-18,South,Food & Beverage,Organic Coffee 1kg,20.0,158.6,3172.0,Complete
+ORD-00440,CAROL DAVIS,Nov 23 2024,w,cloth,Yoga Pants,4.0,184.22,736.88,Completed
+ORD-00058,Frank Thomas,Mar 18 2023,NORTH,Furniture,Office Chair,6.0,1332.46,7994.76,cancelled
+ORD-00774,Uma Scott,Aug 20 2024,NORTH,toys,Board Game Deluxe,4.0,708.45,2833.8,returned
+ORD-00490,liam jackson,2023-01-07,South,Electronics,Wireless Headphones,10.0,1382.7,13827.0,canceled
+ORD-00311,Frank Thomas,2024-06-10,West,CLOTHING,Denim Jeans,3.0,284.53,853.59,completed
+ORD-00479,Mia Thompson,2024-01-18,WEST,electronics,USB-C Hub,20.0,685.21,13704.2,
+ORD-00050,Karen Harris,May 11 2023,NORTH,toy,LEGO Classic Set,13.0,967.02,12571.26,cancel
+ORD-00463,Olivia Lewis,01/04/2023,WEST,sports,Resistance Bands,15.0,1202.89,18043.35,cancelled
+ORD-00863,Mia Thompson,2023-12-20,east,elec,Gaming Mouse,13.0,-1344.16,17474.08,
+ORD-00205,henry brown,May 07 2024,EAST,Food & Beverage,Green Tea Box,15.0,937.76,14066.4,canceled
+ORD-00615,Noah Garcia,2023-04-04,WEST,clothing,Denim Jeans,17.0,225.29,3829.93,CANCELLED
+ORD-00356,Wendy Baker,12/11/2024,EAST,Clothing,Yoga Pants,12.0,591.15,,Returned
+ORD-01052,Mia Thompson,Aug 23 2024,NORTH,book,Clean Code,5.0,806.9,4034.5,Cancelled
+ORD-00068,CAROL DAVIS,22/06/2024,e,Toys,Puzzle 1000pc,20.0,1310.34,26206.8,COMPLETED
+ORD-01167,Victor Green,2023-05-10,,toys,Puzzle 1000pc,17.0,1071.27,18211.59,pend
+ORD-00469,Emma Wilson,Jan 14 2023,w,food,Organic Coffee 1kg,11.0,1350.3,14853.3,cancel
+ORD-00218,XAVIER NELSON,Jan 19 2023,w,CLOTHING,Yoga Pants,13.0,1024.5,13318.5,completed
+ORD-01019,,Sep 14 2024,WEST,food,Granola Mix,6.0,1429.42,8576.52,completed
+ORD-00598,Grace Martinez,Mar 04 2024,East,books,Clean Code,5.0,70.5,352.5,CANCELLED
+ORD-00373,Olivia Lewis,21/03/2023,West,ELECTRONICS,Laptop Pro 15,5.0,717.0,3585.0,RETURNED
+ORD-00562,Grace Martinez,May 07 2024,South,elec,Laptop Pro 15,7.0,1289.22,9024.54,PENDING
+ORD-01177,bob smith,27/01/2024,EAST,food & bev,Protein Bar Pack,3.0,419.54,1258.62,completed
+ORD-00898,peter hall,2023-12-30,West,sport,Foam Roller,10.0,332.19,3321.9,cancel
+ORD-00957,henry brown,2024-08-13,east,elec,USB-C Hub,11.0,888.8,9776.8,Completed
+ORD-00042,Quinn Walker,,south,food,Green Tea Box,19.0,1156.89,21980.91,
+ORD-00259,samuel young,Jan 04 2023,w,food,Granola Mix,11.0,1357.4,14931.4,returned
+ORD-01193,CAROL DAVIS,2023-07-06,east,Food & Beverage,Coconut Oil,14.0,286.06,4004.84,Complete
+ORD-00886,  David Lee  ,17/12/2024,WEST,Sports,  Protein Shaker  ,10.0,755.62,7556.2,cancel
+ORD-00848,Alice Johnson,Jun 27 2024,north,,ML Fundamentals,5.0,1445.96,7229.8,cancel
+ORD-00103,XAVIER NELSON,Nov 08 2024,north,food & bev,Granola Mix,12.0,370.12,4441.44,Returned
+ORD-00558,Uma Scott,Jun 10 2023,w,Clothing,Yoga Pants,20.0,86.58,1731.6,returned
+ORD-01045,Victor Green,Jun 25 2023,west,CLOTHING,Denim Jeans,12.0,1215.18,14582.16,COMPLETED
+ORD-00436,CAROL DAVIS,21/05/2023,n,elec,Laptop Pro 15,14.0,742.42,10393.88,CANCELLED
+ORD-00849,Mia Thompson,Mar 13 2023,n,Toys,LEGO Classic Set,6.0,465.51,2793.06,canceled
+ORD-00316,Alice Johnson,2024-09-13,south,Clothing,Polo Shirt,6.0,260.03,1560.18,
+ORD-00001,CAROL DAVIS,2023-05-09,North,toy,Art Kit,13.0,1207.94,,pending
+ORD-00457,samuel young,Aug 09 2024,w,elec,Laptop Pro 15,17.0,-341.28,5801.76,pend
+ORD-00424,samuel young,Sep 05 2023,South,elec,USB-C Hub,1.0,949.77,949.77,Cancelled
+ORD-01009,peter hall,19/12/2023,s,food & bev,  Granola Mix  ,10.0,1090.68,10906.8,RETURNED
+ORD-00783,henry brown,Aug 09 2023,e,furniture,  Coffee Table  ,13.0,760.64,9888.32,completed
+ORD-00166,XAVIER NELSON,2024-03-19,w,sports,Resistance Bands,14.0,760.41,10645.74,Completed
+ORD-01171,samuel young,2023-05-21,south,sport,Protein Shaker,18.0,695.87,12525.66,canceled
+ORD-00206,Rachel Allen,2023-05-25,north,food,Protein Bar Pack,1.0,832.52,832.52,Completed
+ORD-00308,Karen Harris,2023-02-02,SOUTH,CLOTHING,  Denim Jeans  ,13.0,634.48,8248.24,returned
+ORD-00240,Mia Thompson,2023-02-20,SOUTH,clothing,Denim Jeans,3.0,-431.18,1293.54,
+ORD-01155,Yara Carter,20/05/2023,east,sport,Protein Shaker,1.0,5.14,5.14,returned
+ORD-00408,Wendy Baker,06/02/2023,NORTH,books,Python Data Science,19.0,1356.96,25782.24,cancel
+ORD-00596,Emma Wilson,2024-07-05,East,Food & Beverage,Coconut Oil,9.0,1288.78,11599.02,COMPLETED
+ORD-00189,Noah Garcia,28/07/2024,West,toy,Puzzle 1000pc,18.0,563.6,10144.8,PENDING
+ORD-01191,Grace Martinez,05/10/2024,EAST,Food & Beverage,Green Tea Box,5.0,9.6,48.0,COMPLETED
+ORD-00105,Karen Harris,Jul 11 2024,s,food & bev,Coconut Oil,14.0,,11941.72,Pending
+ORD-00997,JAMES WHITE,Mar 29 2024,East,Electronics,Smart Watch,14.0,1441.99,20187.86,done
+ORD-01091,Victor Green,,w,book,ML Fundamentals,16.0,438.6,7017.6,CANCELLED
+ORD-00876,Wendy Baker,May 25 2023,West,,Office Chair,4.0,278.65,1114.6,cancel
+ORD-00974,henry brown,2023-07-29,w,ELECTRONICS,Laptop Pro 15,4.0,782.13,3128.52,Completed
+ORD-00900,henry brown,10/10/2024,EAST,Sports,Yoga Mat,7.0,1460.04,10220.28,Completed
+ORD-00401,JAMES WHITE,25/11/2023,north,,Granola Mix,7.0,1135.09,7945.63,COMPLETED
+ORD-00150,samuel young,Jun 15 2023,west,furn,Office Chair,16.0,721.14,11538.24,Completed
+ORD-00924,Zoe Mitchell,2024-07-10,West,sports,Resistance Bands,17.0,377.48,6417.16,CANCELLED
+ORD-00622,bob smith,2024-06-09,west,sport,Protein Shaker,18.0,119.42,2149.56,cancel
+ORD-01014,peter hall,23/12/2023,e,Books,Python Data Science,5.0,1385.5,6927.5,done
+ORD-01174,liam jackson,03/10/2024,North,Books,Clean Code,13.0,281.49,3659.37,COMPLETED
+ORD-00858,Emma Wilson,Apr 19 2024,WEST,clothing,Polo Shirt,2.0,1036.48,2072.96,COMPLETED
+ORD-00763,XAVIER NELSON,2024-08-05,SOUTH,electronics,Gaming Mouse,11.0,1421.39,15635.29,completed
+ORD-01089,peter hall,May 15 2024,East,ELECTRONICS,USB-C Hub,10.0,1178.39,11783.9,COMPLETED
+ORD-01200,Tina King,Apr 25 2024,e,cloth,Winter Jacket,16.0,205.46,,Pending
+ORD-00454,Yara Carter,Nov 07 2023,south,Books,  SQL Cookbook  ,6.0,837.22,342152.4,returned
+ORD-01146,Frank Thomas,2024-06-17,south,toys,Art Kit,11.0,790.47,8695.17,cancel
+ORD-00841,  David Lee  ,Jun 18 2024,East,sports,Resistance Bands,19.0,1103.05,20957.95,returned
+ORD-00032,Isabella Clark,Nov 01 2024,West,,Board Game Deluxe,9.0,1204.46,10840.14,Returned
+ORD-00175,CAROL DAVIS,May 02 2024,,sport,Protein Shaker,5.0,202.62,1013.1,canceled
+ORD-00287,Uma Scott,Jul 04 2024,south,toy,Puzzle 1000pc,14.0,282.7,3957.8,Pending
+ORD-00673,Yara Carter,Aug 24 2024,SOUTH,food,Coconut Oil,3.0,286.3,858.9,returned
+ORD-00811,Grace Martinez,,North,toy,LEGO Classic Set,18.0,809.18,14565.24,CANCELLED
+ORD-00330,Quinn Walker,Oct 06 2024,NORTH,furn,Coffee Table,5.0,1396.35,6981.75,Cancelled
+ORD-00028,Alice Johnson,May 11 2024,n,elec,Laptop Pro 15,6.0,241.28,,COMPLETED
+ORD-00260,Mia Thompson,May 05 2024,west,Books,ML Fundamentals,3.0,103.29,309.87,
+ORD-00445,Isabella Clark,27/11/2024,e,Electronics,Laptop Pro 15,16.0,413.59,6617.44,pending
+ORD-00095,Grace Martinez,2024-05-13,n,sport,Resistance Bands,6.0,1057.55,6345.3,Returned
+ORD-00777,Noah Garcia,2024-11-25,,clothing,Denim Jeans,5.0,463.66,2318.3,cancelled
+ORD-00036,  David Lee  ,Oct 18 2023,w,Furniture,Standing Desk,4.0,521.03,2084.12,RETURNED
+ORD-00706,peter hall,Apr 09 2024,w,toy,LEGO Classic Set,18.0,1168.9,21040.2,cancelled
+ORD-00035,Wendy Baker,25/07/2023,EAST,sport,Foam Roller,11.0,906.8,9974.8,Pending
+ORD-00357,Noah Garcia,16/10/2024,EAST,furn,Bookshelf,6.0,1099.87,6599.22,Pending
+ORD-00853,Uma Scott,25/08/2023,east,ELECTRONICS,Gaming Mouse,4.0,1357.65,5430.6,pend
+ORD-01074,Noah Garcia,2023-04-17,south,Food & Beverage,Coconut Oil,15.0,1055.31,15829.65,canceled
+ORD-00767,CAROL DAVIS,2023-02-25,East,food,  Green Tea Box  ,11.0,61.64,678.04,COMPLETED
+ORD-00882,Mia Thompson,Mar 02 2024,EAST,book,The Pragmatic Programmer,2.0,1390.09,2780.18,completed
+ORD-00085,Isabella Clark,Sep 25 2023,,books,Python Data Science,9.0,962.69,8664.21,pending
+ORD-01186,samuel young,Mar 04 2023,SOUTH,toy,Board Game Deluxe,5.0,,2190.2,canceled
+ORD-01184,Quinn Walker,2024-04-12,South,electronics,  Laptop Pro 15  ,11.0,1206.93,13276.23,cancelled
+ORD-00922,Olivia Lewis,2024-11-01,NORTH,electronics,Smart Watch,20.0,410.57,8211.4,canceled
+ORD-01063,  David Lee  ,Aug 20 2024,east,Furniture,Standing Desk,9.0,1443.0,12987.0,Pending
+ORD-00251,Isabella Clark,May 08 2023,n,furn,Coffee Table,20.0,375.01,7500.2,cancel
+ORD-01049,Olivia Lewis,Oct 12 2023,NORTH,cloth,Polo Shirt,2.0,1437.33,2874.66,Pending
+ORD-01125,samuel young,Jun 25 2024,e,furn,Bookshelf,12.0,1115.68,13388.16,PENDING
+ORD-00478,CAROL DAVIS,08/06/2024,SOUTH,CLOTHING,Winter Jacket,15.0,,15258.15,returned
+ORD-01106,Karen Harris,2024-07-21,south,furniture,Standing Desk,9.0,1079.66,9716.94,pending
+ORD-00261,Quinn Walker,13/07/2023,North,toy,Art Kit,2.0,1436.15,2872.3,Complete
+ORD-00961,Karen Harris,29/08/2023,e,toy,Board Game Deluxe,18.0,92.83,1670.94,completed
+ORD-00188,Olivia Lewis,07/02/2023,SOUTH,Food & Beverage,Green Tea Box,3.0,1075.49,3226.47,completed
+ORD-01128,Uma Scott,02/01/2024,South,electronics,Laptop Pro 15,19.0,656.59,12475.21,done
+ORD-00681,samuel young,Aug 02 2024,s,toys,LEGO Classic Set,8.0,1209.05,9672.4,CANCELLED
+ORD-01002,Zoe Mitchell,2024-04-05,north,ELECTRONICS,Gaming Mouse,16.0,803.24,12851.84,cancelled
+ORD-01151,JAMES WHITE,2023-11-09,east,food,Green Tea Box,14.0,833.65,11671.1,Returned
+ORD-00126,Emma Wilson,Dec 27 2023,EAST,food & bev,Coconut Oil,3.0,265.87,,Returned
+ORD-01115,Isabella Clark,Apr 30 2024,South,food & bev,Organic Coffee 1kg,13.0,189.77,2467.01,pending
+ORD-01069,peter hall,23/01/2024,West,sports,Jump Rope,6.0,1327.41,7964.46,Complete
+ORD-00123,Noah Garcia,2024-01-13,w,toys,RC Car,8.0,1096.07,8768.56,COMPLETED
+ORD-00192,Karen Harris,2024-06-13,,Food & Beverage,Granola Mix,6.0,607.66,3645.96,PENDING
+ORD-00283,samuel young,May 09 2024,WEST,,Winter Jacket,6.0,160.05,,Pending
+ORD-00810,Emma Wilson,Aug 17 2024,North,,Coffee Table,2.0,140.35,280.7,done
+ORD-01013,bob smith,2023-07-03,north,ELECTRONICS,Gaming Mouse,17.0,1011.62,17197.54,canceled
+ORD-00859,bob smith,Sep 05 2024,s,Electronics,Wireless Headphones,17.0,432.58,7353.86,Pending
+ORD-00851,Olivia Lewis,2023-05-12,EAST,ELECTRONICS,Laptop Pro 15,7.0,1354.23,9479.61,Complete
+ORD-00975,Grace Martinez,2024-04-07,West,Food & Beverage,Coconut Oil,7.0,333.19,,pending
+ORD-00613,Mia Thompson,17/11/2023,north,cloth,Polo Shirt,2.0,913.86,1827.72,RETURNED
+ORD-00294,Victor Green,19/04/2023,North,CLOTHING,Running Shoes,20.0,392.68,7853.6,Completed
+ORD-00362,JAMES WHITE,2023-06-14,w,Furniture,Filing Cabinet,12.0,1056.64,12679.68,pending
+ORD-01105,henry brown,24/10/2023,West,books,Clean Code,18.0,499.73,8995.14,CANCELLED
+ORD-01158,bob smith,2024-12-19,South,electronics,Laptop Pro 15,17.0,1110.35,18875.95,returned
+ORD-00812,Victor Green,26/11/2023,SOUTH,Food & Beverage,Protein Bar Pack,15.0,413.15,6197.25,Returned
+ORD-00358,Zoe Mitchell,Nov 25 2024,West,clothing,Denim Jeans,13.0,275.11,3576.43,returned
+ORD-00131,Rachel Allen,2023-08-22,East,food,Coconut Oil,19.0,479.41,9108.79,pend
+ORD-01153,henry brown,Nov 12 2024,south,food & bev,Coconut Oil,20.0,1181.55,23631.0,canceled
+ORD-00591,Alice Johnson,15/12/2023,south,Toys,Art Kit,19.0,72.25,,cancel
+ORD-00500,Isabella Clark,Dec 15 2024,SOUTH,sports,Protein Shaker,10.0,641.72,6417.2,COMPLETED
+ORD-00757,Noah Garcia,Oct 09 2023,north,Books,Python Data Science,12.0,924.2,11090.4,COMPLETED
+ORD-00402,Rachel Allen,19/07/2023,east,Sports,Jump Rope,13.0,81.48,1059.24,COMPLETED
+ORD-00130,Victor Green,02/04/2024,south,elec,Gaming Mouse,19.0,1109.76,21085.44,pend
+ORD-00481,Uma Scott,03/03/2024,n,ELECTRONICS,Smart Watch,19.0,609.61,11582.59,canceled
+ORD-00790,samuel young,14/03/2023,north,sports,Protein Shaker,10.0,963.37,9633.7,Complete
+ORD-00582,Tina King,Jan 06 2024,s,Toys,Puzzle 1000pc,17.0,1465.3,24910.1,Returned
+ORD-00098,Olivia Lewis,27/12/2023,EAST,book,The Pragmatic Programmer,18.0,1497.66,26957.88,CANCELLED
+ORD-00369,Quinn Walker,2023-04-10,s,electronics,Laptop Pro 15,3.0,1417.18,4251.54,canceled
+ORD-00480,peter hall,2023-06-07,e,cloth,  Winter Jacket  ,19.0,826.75,15708.25,Completed
+ORD-00353,Uma Scott,18/06/2023,,Food & Beverage,Green Tea Box,19.0,17.67,335.73,pending
+ORD-00934,Karen Harris,2023-08-07,south,furn,Office Chair,19.0,821.1,15600.9,cancelled
+ORD-01018,Wendy Baker,09/09/2024,,ELECTRONICS,Wireless Headphones,18.0,270.57,4870.26,Pending
+ORD-00170,bob smith,Dec 09 2024,north,Food & Beverage,Protein Bar Pack,7.0,507.16,3550.12,pend
+ORD-00871,bob smith,26/10/2024,n,book,The Pragmatic Programmer,15.0,1322.92,19843.8,RETURNED
+ORD-00802,bob smith,Apr 21 2024,EAST,,Smart Watch,12.0,349.12,4189.44,cancel
+ORD-00731,Zoe Mitchell,29/11/2024,e,Books,Clean Code,15.0,1495.91,22438.65,COMPLETED
+ORD-00290,CAROL DAVIS,May 29 2024,south,Food & Beverage,Coconut Oil,10.0,923.57,9235.7,done
+ORD-00172,bob smith,Feb 08 2023,w,cloth,Yoga Pants,18.0,866.65,15599.7,CANCELLED
+ORD-00936,bob smith,May 08 2023,South,Toys,Art Kit,5.0,651.76,3258.8,Cancelled
+ORD-00144,Yara Carter,Sep 01 2024,,book,Clean Code,13.0,1456.71,18937.23,PENDING
+ORD-00789,henry brown,Apr 28 2023,north,cloth,Running Shoes,20.0,985.69,19713.8,Pending
+ORD-00984,liam jackson,2024-02-12,west,furn,Filing Cabinet,,1363.13,2726.26,CANCELLED
+ORD-00430,Uma Scott,2023-03-27,south,toys,LEGO Classic Set,,219.94,2419.34,pending
+ORD-00132,Mia Thompson,26/08/2024,East,clothing,Denim Jeans,12.0,1332.55,15990.6,Cancelled
+ORD-00933,Uma Scott,Jun 04 2023,north,sport,Yoga Mat,2.0,991.96,1983.92,RETURNED
+ORD-00365,Isabella Clark,10/02/2023,WEST,CLOTHING,Winter Jacket,12.0,1087.98,13055.76,Cancelled
+ORD-01111,CAROL DAVIS,Feb 28 2023,SOUTH,cloth,Denim Jeans,2.0,40.43,80.86,Complete
+ORD-00925,Alice Johnson,21/02/2023,South,books,  The Pragmatic Programmer  ,12.0,992.08,,CANCELLED
+ORD-00488,Uma Scott,Jan 27 2024,west,furn,Office Chair,12.0,151.23,1814.76,
+ORD-00833,Zoe Mitchell,12/07/2024,South,,Clean Code,5.0,,5607.0,Cancelled
+ORD-00955,Zoe Mitchell,01/07/2024,SOUTH,ELECTRONICS,USB-C Hub,12.0,1275.91,15310.92,cancel
+ORD-01199,JAMES WHITE,15/01/2023,n,electronics,Wireless Headphones,5.0,1303.78,6518.9,
+ORD-00954,Noah Garcia,2023-09-10,EAST,toys,RC Car,9.0,26.68,,cancel
+ORD-00824,Tina King,Aug 15 2023,NORTH,Electronics,Gaming Mouse,-18.0,495.37,8916.66,Returned
+ORD-00857,CAROL DAVIS,17/01/2024,south,Sports,Jump Rope,9.0,1318.32,11864.88,Complete
+ORD-00476,Yara Carter,2024-07-14,North,sport,Jump Rope,17.0,682.58,11603.86,RETURNED
+ORD-00099,Mia Thompson,14/10/2023,south,CLOTHING,Polo Shirt,12.0,550.79,6609.48,done
+ORD-00164,Rachel Allen,14/04/2024,n,Electronics,Smart Watch,7.0,1042.6,7298.2,completed
+ORD-00202,Zoe Mitchell,2024-11-18,west,CLOTHING,Winter Jacket,,1419.68,28393.6,cancel
+ORD-00271,Mia Thompson,Apr 08 2024,SOUTH,book,Python Data Science,,1375.46,11003.68,canceled
+ORD-00970,Isabella Clark,25/07/2024,s,food,Protein Bar Pack,7.0,1436.22,,Cancelled
+ORD-00168,Uma Scott,01/03/2024,west,food,Granola Mix,5.0,131.57,657.85,Pending
+ORD-00698,Yara Carter,2023-02-18,e,clothing,Denim Jeans,12.0,1456.23,17474.76,Cancelled
+ORD-00923,Quinn Walker,2024-07-21,West,Sports,Yoga Mat,18.0,763.45,13742.1,returned
+ORD-01117,Quinn Walker,Jan 21 2023,North,Food & Beverage,Green Tea Box,9.0,979.12,8812.08,returned
+ORD-00498,Olivia Lewis,2024-01-30,w,ELECTRONICS,USB-C Hub,1.0,1007.4,1007.4,Complete
+ORD-00769,Rachel Allen,2024-05-05,NORTH,toy,Art Kit,10.0,750.84,7508.4,pend
+ORD-00715,liam jackson,28/08/2024,SOUTH,furniture,Filing Cabinet,20.0,367.66,7353.2,PENDING
+ORD-00278,Quinn Walker,11/04/2024,north,Food & Beverage,Green Tea Box,5.0,18.67,93.35,returned
+ORD-01040,Rachel Allen,2023-05-22,WEST,sports,Jump Rope,14.0,1053.5,14749.0,Complete
+ORD-01133,Frank Thomas,13/08/2023,South,ELECTRONICS,Wireless Headphones,,1301.62,20825.92,Pending
+ORD-00364,Wendy Baker,Nov 15 2023,n,Books,The Pragmatic Programmer,17.0,1385.04,23545.68,Cancelled
+ORD-00392,Victor Green,21/05/2023,n,Electronics,Wireless Headphones,4.0,36.39,145.56,cancelled
+ORD-00722,samuel young,Feb 05 2024,north,furniture,Bookshelf,1.0,1423.44,1423.44,Pending
+ORD-00286,Quinn Walker,Aug 16 2024,west,,Coffee Table,19.0,778.93,14799.67,Cancelled
+ORD-00108,Victor Green,Jan 12 2024,e,Books,SQL Cookbook,12.0,153.54,1842.48,completed
+ORD-00265,samuel young,2024-07-12,West,sport,Jump Rope,11.0,914.58,10060.38,pend
+ORD-00501,Quinn Walker,08/01/2023,East,Electronics,Gaming Mouse,2.0,149.78,299.56,returned
+ORD-00605,CAROL DAVIS,10/10/2023,e,food,Organic Coffee 1kg,1.0,1463.59,1463.59,canceled
+ORD-00071,  David Lee  ,2023-01-22,n,cloth,Winter Jacket,9.0,943.09,8487.81,Cancelled
+ORD-00862,Quinn Walker,2023-09-10,NORTH,sports,Foam Roller,20.0,1495.63,,pend
+ORD-01044,Karen Harris,Apr 29 2023,s,furn,Standing Desk,12.0,350.18,4202.16,Returned
+ORD-01144,Victor Green,2023-02-19,west,,Python Data Science,3.0,1418.06,4254.18,done
+ORD-00333,henry brown,26/12/2024,SOUTH,Food & Beverage,Granola Mix,,1326.08,7956.48,Completed
+ORD-00664,XAVIER NELSON,Oct 19 2024,w,toys,Art Kit,11.0,282.03,3102.33,pending
+ORD-00378,XAVIER NELSON,23/06/2024,WEST,elec,Gaming Mouse,,217.42,652.26,RETURNED
+ORD-00964,Olivia Lewis,26/08/2023,south,book,Clean Code,11.0,841.97,9261.67,Pending
+ORD-00293,peter hall,2024-03-25,south,elec,Smart Watch,4.0,435.33,,Cancelled
+ORD-00303,Zoe Mitchell,Jan 13 2024,North,furn,Coffee Table,3.0,290.78,872.34,completed
+ORD-00727,Mia Thompson,2023-08-14,w,furn,Standing Desk,,1305.48,,returned
+ORD-00477,Noah Garcia,2023-07-03,w,Clothing,Running Shoes,16.0,19.68,314.88,COMPLETED
+ORD-00492,XAVIER NELSON,Dec 14 2024,west,cloth,Yoga Pants,15.0,559.66,8394.9,done
+ORD-01145,liam jackson,2024-07-20,WEST,ELECTRONICS,Laptop Pro 15,14.0,256.24,3587.36,PENDING
+ORD-00597,Uma Scott,Jul 14 2023,SOUTH,sport,Foam Roller,11.0,487.41,,canceled
+ORD-00398,Wendy Baker,18/10/2024,East,sport,  Resistance Bands  ,8.0,1179.56,9436.48,CANCELLED
+ORD-00227,Victor Green,May 16 2023,south,CLOTHING,Running Shoes,10.0,1031.48,10314.8,RETURNED
+ORD-00856,Olivia Lewis,02/02/2024,East,food,Organic Coffee 1kg,17.0,303.81,,cancel
+ORD-00072,Olivia Lewis,Dec 22 2023,east,Books,SQL Cookbook,3.0,435.43,1306.29,canceled
+ORD-00093,Rachel Allen,07/07/2024,east,electronics,Laptop Pro 15,7.0,616.87,4318.09,Cancelled
+ORD-01101,Wendy Baker,2024-01-21,EAST,food & bev,Coconut Oil,7.0,745.06,5215.42,done
+ORD-00953,Quinn Walker,15/02/2023,North,book,The Pragmatic Programmer,6.0,382.89,2297.34,COMPLETED
+ORD-00759,bob smith,Nov 26 2023,west,books,The Pragmatic Programmer,11.0,1252.31,13775.41,Completed
+ORD-00310,Emma Wilson,2024-08-11,south,Electronics,Gaming Mouse,11.0,188.95,2078.45,COMPLETED
+ORD-00718,peter hall,2024-01-29,EAST,toys,RC Car,8.0,824.18,6593.44,pending
+ORD-00755,CAROL DAVIS,Oct 29 2023,NORTH,Books,Clean Code,3.0,541.84,1625.52,pend
+ORD-01180,liam jackson,2023-12-09,n,book,SQL Cookbook,4.0,235.67,942.68,pending
+ORD-01061,Frank Thomas,Nov 06 2024,north,furn,Coffee Table,6.0,451.64,2709.84,Complete
+ORD-00328,Victor Green,2024-03-01,west,book,Python Data Science,11.0,857.7,9434.7,Cancelled
+ORD-00592,Karen Harris,Feb 24 2024,EAST,book,SQL Cookbook,5.0,921.49,4607.45,Complete
+ORD-00385,Noah Garcia,2023-12-19,North,furniture,Filing Cabinet,10.0,1378.16,13781.6,RETURNED
+ORD-00414,peter hall,Jul 04 2023,east,books,Clean Code,6.0,287.35,1724.1,Completed
+ORD-00791,Zoe Mitchell,Feb 07 2024,EAST,food,Green Tea Box,9.0,1277.12,11494.08,cancelled
+ORD-00695,liam jackson,2023-09-09,SOUTH,elec,Wireless Headphones,14.0,1187.39,16623.46,CANCELLED
+ORD-00813,Emma Wilson,2023-10-12,east,food & bev,Granola Mix,18.0,808.79,14558.22,COMPLETED
+ORD-00315,henry brown,2024-05-20,e,book,Clean Code,7.0,1189.14,8323.98,CANCELLED
+ORD-01114,Mia Thompson,22/03/2023,West,CLOTHING,Yoga Pants,12.0,404.65,4855.8,Returned
+ORD-00814,Noah Garcia,2023-08-12,e,cloth,Winter Jacket,1.0,1041.27,1041.27,Cancelled
+ORD-00671,Emma Wilson,01/12/2024,,Books,SQL Cookbook,16.0,454.09,7265.44,RETURNED
+ORD-00030,samuel young,06/01/2023,north,toys,Puzzle 1000pc,19.0,1419.65,26973.35,completed
+ORD-00909,Victor Green,Jan 26 2024,,Toys,  RC Car  ,12.0,1412.67,16952.04,cancel
+ORD-00410,Noah Garcia,2023-10-08,WEST,Food & Beverage,Organic Coffee 1kg,11.0,651.66,7168.26,returned
+ORD-00129,Karen Harris,24/09/2023,e,Furniture,Coffee Table,4.0,677.53,2710.12,pend
+ORD-00521,Tina King,Jul 05 2023,west,electronics,Gaming Mouse,-14.0,798.07,11172.98,done
+ORD-00236,Alice Johnson,Aug 02 2023,EAST,book,The Pragmatic Programmer,11.0,834.99,9184.89,CANCELLED
+ORD-01092,Wendy Baker,12/09/2023,WEST,Clothing,Winter Jacket,17.0,422.8,7187.6,returned
+ORD-00988,  David Lee  ,03/12/2024,EAST,furniture,Bookshelf,11.0,1151.71,,canceled
+ORD-00583,Alice Johnson,Apr 16 2023,west,furniture,Filing Cabinet,13.0,81.13,1054.69,cancel
+ORD-00323,Uma Scott,19/02/2024,EAST,toys,Puzzle 1000pc,14.0,585.11,8191.54,Completed
+ORD-00145,CAROL DAVIS,2024-09-15,West,toy,RC Car,9.0,336.55,3028.95,canceled
+ORD-00545,Olivia Lewis,Feb 04 2023,e,Food & Beverage,Organic Coffee 1kg,-2.0,466.85,933.7,done
+ORD-00246,samuel young,Feb 19 2024,SOUTH,ELECTRONICS,Laptop Pro 15,1.0,1219.9,1219.9,
+ORD-00515,Zoe Mitchell,Oct 30 2024,North,electronics,Gaming Mouse,9.0,990.55,8914.95,Complete
+ORD-00532,JAMES WHITE,Dec 06 2024,South,Food & Beverage,Green Tea Box,7.0,1294.57,9061.99,cancel
+ORD-00029,Grace Martinez,15/10/2024,n,electronics,Smart Watch,20.0,317.58,6351.6,pend
+ORD-01109,Zoe Mitchell,22/01/2024,South,books,ML Fundamentals,15.0,1350.93,,done
+ORD-01132,XAVIER NELSON,Jun 15 2024,s,sport,  Yoga Mat  ,9.0,336.89,3032.01,Returned
+ORD-00668,bob smith,Oct 19 2023,North,Sports,Jump Rope,13.0,5.29,68.77,RETURNED
+ORD-00648,Emma Wilson,Oct 18 2024,west,ELECTRONICS,  USB-C Hub  ,14.0,274.07,3836.98,
+ORD-00945,liam jackson,2024-03-14,East,Clothing,Denim Jeans,13.0,564.59,7339.67,Complete
+ORD-00407,samuel young,2024-04-02,SOUTH,food,Green Tea Box,10.0,588.02,5880.2,cancelled
+ORD-00756,  David Lee  ,21/02/2023,West,cloth,Polo Shirt,15.0,375.64,5634.6,cancel
+ORD-01023,Olivia Lewis,2024-06-17,WEST,CLOTHING,Denim Jeans,19.0,642.62,12209.78,Cancelled
+ORD-01022,Victor Green,23/12/2024,NORTH,toys,LEGO Classic Set,15.0,927.96,13919.4,done
+ORD-00201,Uma Scott,08/10/2024,south,toys,  RC Car  ,5.0,1475.2,7376.0,PENDING
+ORD-01110,Noah Garcia,02/06/2024,East,book,ML Fundamentals,12.0,129.82,1557.84,
+ORD-00580,samuel young,17/04/2023,South,toy,Board Game Deluxe,20.0,335.24,6704.8,cancelled
+ORD-00281,Tina King,Jul 04 2023,east,book,The Pragmatic Programmer,14.0,123.0,1722.0,
+ORD-00329,XAVIER NELSON,12/08/2024,EAST,electronics,Wireless Headphones,10.0,355.07,3550.7,
+ORD-00387,  David Lee  ,Jan 11 2024,north,Clothing,Running Shoes,-19.0,759.43,14429.17,canceled
+ORD-00024,henry brown,09/07/2024,EAST,Clothing,Winter Jacket,9.0,132.88,1195.92,canceled
+ORD-00884,Frank Thomas,2023-05-12,West,toys,RC Car,6.0,1039.27,6235.62,cancelled
+ORD-00243,liam jackson,Aug 18 2023,,Books,SQL Cookbook,13.0,16.37,212.81,pend
+ORD-01189,Uma Scott,2024-06-25,,,Running Shoes,,859.19,3436.76,Cancelled
+ORD-01163,Zoe Mitchell,14/11/2023,w,sports,Resistance Bands,7.0,46.42,324.94,cancel
+ORD-00938,Noah Garcia,24/12/2024,south,electronics,Smart Watch,8.0,1018.93,8151.44,Returned
+ORD-00471,Tina King,02/11/2023,NORTH,Food & Beverage,  Protein Bar Pack  ,2.0,1002.16,2004.32,completed
+ORD-00786,Uma Scott,Sep 22 2024,east,electronics,Wireless Headphones,20.0,81.03,1620.6,returned
+ORD-00070,Alice Johnson,Apr 19 2023,EAST,Furniture,Standing Desk,20.0,25.18,503.6,COMPLETED
+ORD-00018,Tina King,25/01/2024,WEST,elec,Wireless Headphones,13.0,501.66,6521.58,cancelled
+ORD-00504,Victor Green,10/03/2024,WEST,clothing,  Yoga Pants  ,3.0,411.79,1235.37,cancel
+ORD-00013,Alice Johnson,Sep 29 2024,n,food,Organic Coffee 1kg,6.0,414.09,2484.54,pending
+ORD-01054,Emma Wilson,2023-09-13,EAST,sport,Yoga Mat,5.0,1053.63,5268.15,PENDING
+ORD-00744,XAVIER NELSON,16/03/2023,,sport,Yoga Mat,9.0,176.14,1585.26,Completed
+ORD-00141,Zoe Mitchell,2024-01-22,WEST,Food & Beverage,Protein Bar Pack,5.0,1074.28,5371.4,returned
+ORD-00439,samuel young,2024-10-25,South,CLOTHING,Winter Jacket,,1030.97,6185.82,Returned
+ORD-00983,Emma Wilson,2023-12-20,w,Sports,Jump Rope,19.0,1037.2,19706.8,Complete
+ORD-00360,bob smith,2023-05-14,w,ELECTRONICS,Smart Watch,11.0,813.16,8944.76,completed
+ORD-00083,Tina King,2023-12-08,e,clothing,Winter Jacket,10.0,539.18,5391.8,COMPLETED
+ORD-00921,Rachel Allen,,NORTH,Food & Beverage,Protein Bar Pack,2.0,1116.98,2233.96,canceled
+ORD-00239,Frank Thomas,2023-05-01,SOUTH,furniture,Bookshelf,15.0,436.73,6550.95,Completed
+ORD-01051,samuel young,Feb 03 2023,South,Clothing,Winter Jacket,12.0,546.42,,Returned
+ORD-00322,Noah Garcia,2023-06-03,w,Clothing,Winter Jacket,1.0,855.93,,
+ORD-00345,henry brown,30/03/2023,w,Food & Beverage,Coconut Oil,19.0,1455.35,27651.65,pending
+ORD-00383,Mia Thompson,Jan 17 2024,NORTH,elec,Laptop Pro 15,8.0,200.42,,pend
+ORD-00887,CAROL DAVIS,2024-03-20,WEST,food & bev,Granola Mix,8.0,91.57,732.56,completed
+ORD-00579,CAROL DAVIS,Jul 13 2024,EAST,,Puzzle 1000pc,15.0,1388.62,20829.3,Cancelled
+ORD-01122,JAMES WHITE,2023-10-09,south,furniture,Standing Desk,17.0,335.46,5702.82,cancel
+ORD-00506,XAVIER NELSON,25/08/2024,n,food,Granola Mix,15.0,269.2,4038.0,PENDING
+ORD-00419,Zoe Mitchell,30/04/2024,east,Books,SQL Cookbook,1.0,371.75,371.75,RETURNED
+ORD-00734,Noah Garcia,2024-05-05,west,sport,Foam Roller,8.0,336.55,2692.4,completed
+ORD-00435,peter hall,Feb 23 2024,w,Clothing,Running Shoes,18.0,760.63,13691.34,cancel
+ORD-00349,Zoe Mitchell,Aug 08 2024,SOUTH,sports,Jump Rope,2.0,677.35,1354.7,cancelled
+ORD-00101,henry brown,2023-09-06,s,Toys,Board Game Deluxe,20.0,1112.63,22252.6,PENDING
+ORD-00078,Tina King,08/05/2023,s,book,Clean Code,1.0,352.75,352.75,cancel
+,Grace Martinez,Oct 31 2024,WEST,electronics,Smart Watch,2.0,611.23,1222.46,done
+ORD-00325,  David Lee  ,Aug 05 2024,w,sport,Resistance Bands,13.0,733.75,9538.75,returned
+ORD-01159,Rachel Allen,2023-01-09,n,toy,LEGO Classic Set,8.0,,8408.96,Cancelled
+ORD-00433,Isabella Clark,2024-04-26,w,cloth,Running Shoes,8.0,1011.65,8093.2,Pending
+ORD-00126,henry brown,Jun 15 2024,West,elec,USB-C Hub,2.0,,2634.56,completed
+ORD-01071,Alice Johnson,Oct 27 2023,West,food,Protein Bar Pack,12.0,1297.1,15565.2,PENDING
+ORD-01042,Yara Carter,Sep 28 2024,North,Furniture,Filing Cabinet,14.0,1268.51,17759.14,pend
+ORD-00979,JAMES WHITE,Mar 19 2024,EAST,CLOTHING,Denim Jeans,10.0,759.44,,pending
+ORD-00626,Victor Green,25/02/2024,WEST,elec,Wireless Headphones,5.0,1271.21,,returned
+ORD-00533,Rachel Allen,2023-12-24,north,CLOTHING,Running Shoes,16.0,8.12,129.92,cancel
+ORD-00678,Frank Thomas,May 28 2024,EAST,food & bev,Green Tea Box,5.0,1154.39,5771.95,Returned
+ORD-00994,samuel young,28/06/2023,West,Food & Beverage,Protein Bar Pack,9.0,870.05,7830.45,CANCELLED
+ORD-00112,Tina King,2023-01-05,West,Food & Beverage,Organic Coffee 1kg,,668.76,6687.6,pending
+ORD-00390,Emma Wilson,2023-11-23,west,food & bev,Green Tea Box,19.0,693.74,,Returned
+ORD-00669,samuel young,Dec 19 2023,West,Sports,Foam Roller,9.0,1482.82,13345.38,done
+ORD-00785,  David Lee  ,Sep 01 2024,east,furn,Coffee Table,19.0,1230.18,23373.42,completed
+ORD-00643,samuel young,Aug 21 2023,north,food,Protein Bar Pack,14.0,1456.2,20386.8,canceled
+ORD-00395,  David Lee  ,2024-07-08,east,Electronics,Gaming Mouse,9.0,141.08,1269.72,done
+ORD-00059,Tina King,2023-06-11,South,food & bev,Organic Coffee 1kg,3.0,,2153.58,CANCELLED
+ORD-00880,Zoe Mitchell,2024-12-26,East,Food & Beverage,Organic Coffee 1kg,14.0,1233.93,17275.02,
+ORD-00535,Isabella Clark,12/09/2023,NORTH,sport,Protein Shaker,1.0,1052.72,1052.72,canceled
+ORD-01085,JAMES WHITE,Mar 08 2024,n,Electronics,Gaming Mouse,8.0,1249.18,9993.44,completed
+ORD-00809,Karen Harris,2024-10-25,south,furniture,Office Chair,4.0,38.76,155.04,PENDING
+ORD-00899,  David Lee  ,2024-12-19,,toy,Art Kit,17.0,910.11,15471.87,cancel
+ORD-00674,CAROL DAVIS,09/05/2024,North,Sports,Jump Rope,4.0,1366.72,5466.88,Pending
+ORD-00184,Grace Martinez,2023-12-08,EAST,cloth,Winter Jacket,12.0,62.23,746.76,
+ORD-00226,Victor Green,2024-01-08,n,toy,Board Game Deluxe,2.0,774.53,,canceled
+ORD-00526,Frank Thomas,Nov 11 2024,NORTH,sport,Yoga Mat,8.0,858.14,6865.12,RETURNED
+ORD-01168,Wendy Baker,2024-02-16,West,clothing,Denim Jeans,20.0,914.94,18298.8,cancelled
+ORD-00891,XAVIER NELSON,2024-07-20,n,,Wireless Headphones,17.0,349.65,5944.05,CANCELLED
+ORD-01194,Uma Scott,May 07 2023,North,food & bev,Green Tea Box,15.0,760.16,11402.4,PENDING
+ORD-00566,Victor Green,Jun 21 2023,south,food,Organic Coffee 1kg,4.0,1196.4,4785.6,completed
+ORD-00503,Emma Wilson,2024-03-26,s,books,SQL Cookbook,1.0,755.25,755.25,COMPLETED
+ORD-00160,JAMES WHITE,Mar 05 2023,SOUTH,,Denim Jeans,19.0,1106.69,21027.11,canceled
+ORD-00219,Yara Carter,2023-12-10,south,sport,Protein Shaker,18.0,641.64,11549.52,Returned
+ORD-00653,Tina King,2024-05-07,EAST,sports,Jump Rope,10.0,565.84,5658.4,done
+ORD-00179,bob smith,2024-06-24,west,toys,Art Kit,16.0,351.7,5627.2,cancelled
+ORD-00799,Noah Garcia,2024-02-05,n,electronics,Smart Watch,6.0,493.52,2961.12,done
+ORD-00764,Frank Thomas,Aug 04 2023,e,sport,Jump Rope,15.0,1090.37,16355.55,completed
+ORD-00209,Wendy Baker,May 27 2023,north,food,Organic Coffee 1kg,10.0,912.72,9127.2,done
+ORD-00009,Uma Scott,31/03/2024,North,food & bev,Organic Coffee 1kg,13.0,416.45,5413.85,Complete
+ORD-00634,,12/02/2023,South,cloth,Yoga Pants,13.0,85.92,1116.96,cancelled
+ORD-01016,henry brown,14/12/2023,WEST,food & bev,Granola Mix,19.0,728.03,13832.57,Completed
+ORD-01164,Yara Carter,21/10/2024,north,CLOTHING,Running Shoes,11.0,1319.8,14517.8,pend
+ORD-00379,Quinn Walker,2024-09-11,west,Food & Beverage,Green Tea Box,19.0,987.69,18766.11,done
+ORD-00610,Frank Thomas,11/11/2023,w,CLOTHING,Running Shoes,19.0,1339.12,25443.28,done
+ORD-01066,Quinn Walker,01/12/2024,South,sports,Resistance Bands,7.0,,5505.15,Complete
+ORD-00455,Wendy Baker,Oct 01 2023,West,clothing,Denim Jeans,11.0,981.25,10793.75,pend
+ORD-00247,Quinn Walker,11/01/2024,EAST,Sports,Protein Shaker,3.0,863.01,2589.03,pend
+ORD-00540,Karen Harris,Dec 25 2023,s,ELECTRONICS,Laptop Pro 15,6.0,427.48,2564.88,Cancelled
+ORD-00342,Yara Carter,Dec 23 2023,w,sports,Foam Roller,14.0,1435.86,20102.04,CANCELLED
+ORD-00495,Tina King,2023-12-29,w,sport,Foam Roller,9.0,790.46,7114.14,RETURNED
+ORD-00686,Wendy Baker,2024-03-04,EAST,furniture,Office Chair,9.0,1414.78,12733.02,completed
+ORD-00418,Noah Garcia,May 23 2023,NORTH,sport,Jump Rope,14.0,1094.27,15319.78,done
+ORD-00429,Wendy Baker,2023-07-10,EAST,elec,Smart Watch,15.0,974.19,14612.85,Cancelled
+ORD-01118,Karen Harris,02/05/2024,,clothing,  Winter Jacket  ,12.0,1291.25,15495.0,Returned
+ORD-00361,Emma Wilson,2024-05-23,SOUTH,furniture,Office Chair,9.0,172.48,1552.32,RETURNED
+ORD-01037,Olivia Lewis,13/04/2024,South,Food & Beverage,Protein Bar Pack,17.0,1263.65,21482.05,Cancelled
+ORD-01166,Emma Wilson,Jan 15 2024,n,,Protein Bar Pack,12.0,,17558.16,cancelled
+ORD-01175,henry brown,Feb 22 2024,South,sport,Resistance Bands,5.0,1388.95,6944.75,pend
+ORD-00576,Isabella Clark,Dec 04 2023,west,Toys,LEGO Classic Set,5.0,187.42,937.1,RETURNED
+ORD-00892,Zoe Mitchell,2023-04-13,WEST,sports,Foam Roller,,1310.25,15723.0,canceled
+ORD-01172,Uma Scott,05/08/2024,SOUTH,furniture,Coffee Table,7.0,8.34,58.38,Cancelled
+ORD-00714,Tina King,2024-11-27,WEST,toys,  RC Car  ,10.0,604.4,6044.0,CANCELLED
+ORD-01041,Grace Martinez,Mar 12 2023,SOUTH,electronics,Smart Watch,5.0,1181.53,5907.65,pending
+ORD-00405,liam jackson,Aug 12 2023,East,food,Protein Bar Pack,6.0,717.45,4304.7,Pending
+ORD-01083,XAVIER NELSON,2023-11-30,west,book,SQL Cookbook,15.0,,3415.95,canceled
+ORD-00797,Victor Green,Oct 25 2024,south,,Organic Coffee 1kg,20.0,199.21,3984.2,Complete
+ORD-00775,Zoe Mitchell,Dec 18 2023,NORTH,toy,RC Car,2.0,678.53,1357.06,RETURNED
+ORD-00154,Rachel Allen,Jul 04 2023,North,sports,Protein Shaker,19.0,303.7,5770.3,Returned
+ORD-00382,Olivia Lewis,2024-10-03,South,Food & Beverage,Granola Mix,8.0,1107.7,8861.6,RETURNED
+ORD-01059,Frank Thomas,Sep 17 2024,north,Clothing,Denim Jeans,14.0,362.68,5077.52,Pending
+ORD-00047,Noah Garcia,Mar 22 2023,west,clothing,Running Shoes,7.0,193.65,1355.55,pending
+ORD-00255,Uma Scott,05/06/2024,w,books,ML Fundamentals,17.0,585.23,9948.91,RETURNED
+ORD-00914,Emma Wilson,Mar 24 2024,North,electronics,  Gaming Mouse  ,4.0,426.76,1707.04,PENDING
+ORD-00344,Karen Harris,2024-04-24,NORTH,toys,Puzzle 1000pc,17.0,741.8,12610.6,cancelled
+ORD-00700,Tina King,15/10/2023,East,ELECTRONICS,Wireless Headphones,9.0,381.82,3436.38,Completed
+ORD-00007,CAROL DAVIS,Sep 14 2023,SOUTH,Clothing,Yoga Pants,4.0,986.6,3946.4,returned
+ORD-00590,Isabella Clark,2023-11-05,s,Books,  SQL Cookbook  ,,1391.62,18091.06,Cancelled
+ORD-00096,Mia Thompson,18/11/2024,South,Electronics,Smart Watch,13.0,457.25,5944.25,completed
+ORD-01057,liam jackson,2024-07-25,SOUTH,cloth,Winter Jacket,10.0,1068.52,10685.2,COMPLETED
+ORD-00553,Frank Thomas,02/07/2024,s,,Organic Coffee 1kg,,805.53,9666.36,Cancelled
+ORD-00376,Alice Johnson,Jun 12 2023,East,furn,Bookshelf,20.0,901.99,18039.8,Complete
+ORD-00288,Wendy Baker,10/05/2023,East,CLOTHING,Winter Jacket,8.0,129.75,1038.0,returned
+ORD-01102,Uma Scott,Jun 18 2023,west,toy,Art Kit,1.0,649.83,649.83,Pending
+ORD-00388,Uma Scott,Dec 22 2024,e,Electronics,Smart Watch,15.0,1245.83,18687.45,pending
+ORD-00572,Tina King,Feb 14 2023,east,book,ML Fundamentals,17.0,336.22,5715.74,Returned
+ORD-00670,Uma Scott,20/12/2024,east,food & bev,Organic Coffee 1kg,6.0,579.02,3474.12,done
+ORD-00474,  David Lee  ,2024-02-29,n,CLOTHING,Polo Shirt,7.0,1076.6,7536.2,Returned
+ORD-00978,Olivia Lewis,24/09/2023,,cloth,  Winter Jacket  ,11.0,863.92,9503.12,pending
+ORD-00834,Victor Green,16/05/2024,EAST,food,Organic Coffee 1kg,8.0,868.94,6951.52,returned
+ORD-00198,Karen Harris,Oct 28 2024,North,sports,Jump Rope,20.0,930.75,18615.0,Returned
+ORD-01010,Rachel Allen,2024-04-12,e,ELECTRONICS,USB-C Hub,10.0,494.31,4943.1,pending
+ORD-00679,Zoe Mitchell,2024-07-03,e,food & bev,Green Tea Box,,868.14,2604.42,cancelled
+ORD-01129,samuel young,Nov 12 2023,North,books,Python Data Science,4.0,1469.95,5879.8,returned
+ORD-01012,Wendy Baker,21/04/2024,s,food & bev,Granola Mix,10.0,1028.29,10282.9,PENDING
+ORD-00758,XAVIER NELSON,22/02/2023,east,sport,Protein Shaker,14.0,1302.8,18239.2,CANCELLED
+ORD-00638,Emma Wilson,Aug 02 2024,e,Books,The Pragmatic Programmer,10.0,1041.72,10417.2,cancelled
+ORD-00829,Victor Green,2023-09-09,west,clothing,Winter Jacket,14.0,544.16,7618.24,PENDING
+ORD-00258,Frank Thomas,May 26 2023,s,food,Coconut Oil,5.0,956.11,4780.55,Pending
+ORD-00331,henry brown,Jun 14 2024,east,ELECTRONICS,Wireless Headphones,3.0,803.96,2411.88,canceled
+ORD-00064,Rachel Allen,30/04/2023,North,food & bev,Organic Coffee 1kg,2.0,213.44,,canceled
+ORD-00169,Tina King,2023-07-23,South,Sports,Foam Roller,1.0,843.56,843.56,cancelled
+,Grace Martinez,10/11/2024,EAST,Toys,Art Kit,12.0,335.69,4028.28,CANCELLED
+ORD-00053,Isabella Clark,May 07 2024,east,clothing,Winter Jacket,18.0,783.78,14108.04,pending
+ORD-01050,Quinn Walker,May 21 2023,North,cloth,Polo Shirt,13.0,154.85,2013.05,Complete
+ORD-00049,peter hall,Apr 11 2024,e,book,Python Data Science,19.0,943.16,17920.04,completed
+ORD-00242,liam jackson,2023-11-03,West,cloth,Polo Shirt,4.0,159.29,637.16,done
+ORD-00721,  David Lee  ,02/06/2024,e,Toys,Board Game Deluxe,2.0,131.49,262.98,Pending
+ORD-00076,Mia Thompson,Jan 15 2023,SOUTH,books,ML Fundamentals,18.0,1048.33,18869.94,Completed
+ORD-00831,Alice Johnson,21/04/2023,South,electronics,Smart Watch,16.0,432.19,6915.04,pend
+ORD-00292,Emma Wilson,2024-07-02,NORTH,Books,Python Data Science,14.0,1410.6,19748.4,pend
+ORD-00651,Frank Thomas,May 23 2024,w,,Jump Rope,13.0,511.86,6654.18,CANCELLED
+ORD-00680,bob smith,27/12/2024,WEST,Clothing,Denim Jeans,19.0,1299.45,24689.55,Pending
+ORD-00158,Tina King,15/09/2024,east,Electronics,Gaming Mouse,12.0,844.38,10132.56,Complete
+ORD-00087,Frank Thomas,Jun 22 2023,East,Clothing,Winter Jacket,7.0,1302.92,9120.44,pending
+ORD-00186,samuel young,2023-02-12,NORTH,clothing,Yoga Pants,20.0,509.74,10194.8,completed
+ORD-00555,Tina King,Dec 13 2023,north,Sports,Yoga Mat,16.0,141.65,2266.4,completed
+ORD-00359,Olivia Lewis,Sep 06 2024,EAST,ELECTRONICS,Smart Watch,16.0,1043.7,16699.2,cancelled
+ORD-00484,JAMES WHITE,Jun 16 2023,s,Electronics,Wireless Headphones,13.0,1393.67,18117.71,canceled
+ORD-00869,Mia Thompson,2024-07-29,East,cloth,  Winter Jacket  ,6.0,,4506.42,pend
+ORD-00125,Mia Thompson,Oct 18 2023,SOUTH,Books,ML Fundamentals,8.0,844.65,,RETURNED
+ORD-00404,Noah Garcia,15/09/2023,WEST,clothing,Winter Jacket,12.0,431.17,5174.04,completed
+ORD-00525,Frank Thomas,Jul 25 2024,west,CLOTHING,Running Shoes,8.0,857.19,6857.52,Complete
+ORD-00280,XAVIER NELSON,Nov 14 2023,South,Food & Beverage,Green Tea Box,16.0,1202.65,19242.4,CANCELLED
+ORD-00877,Yara Carter,Feb 12 2023,WEST,Furniture,Filing Cabinet,12.0,815.35,9784.2,pending
+ORD-00222,peter hall,Aug 08 2024,w,Toys,Board Game Deluxe,9.0,577.65,,completed
+ORD-00604,XAVIER NELSON,09/02/2024,North,electronics,USB-C Hub,19.0,652.57,12398.83,canceled
+ORD-00989,Wendy Baker,26/07/2023,NORTH,furn,  Coffee Table  ,15.0,887.52,13312.8,pend
+ORD-00940,Emma Wilson,2023-04-09,south,Furniture,Filing Cabinet,8.0,1001.32,8010.56,Completed
+ORD-00801,Uma Scott,19/04/2023,East,elec,Wireless Headphones,14.0,331.49,4640.86,Complete
+ORD-00905,liam jackson,2024-12-10,north,furniture,Filing Cabinet,1.0,396.02,396.02,Complete
+ORD-00534,liam jackson,24/01/2024,SOUTH,food & bev,Coconut Oil,4.0,275.37,1101.48,RETURNED
+ORD-00229,CAROL DAVIS,,West,Furniture,Bookshelf,10.0,1241.63,12416.3,returned
+ORD-00879,  David Lee  ,16/01/2024,e,elec,Smart Watch,2.0,786.55,1573.1,Cancelled
+ORD-00444,Quinn Walker,14/11/2023,South,Clothing,Running Shoes,16.0,1100.0,17600.0,Complete
+ORD-00451,Yara Carter,2023-04-09,SOUTH,elec,  Smart Watch  ,10.0,1003.04,10030.4,pending
+ORD-00788,henry brown,21/04/2023,s,Electronics,Gaming Mouse,11.0,1261.56,13877.16,cancelled
+ORD-00400,CAROL DAVIS,08/10/2023,NORTH,food,Granola Mix,6.0,129.97,779.82,Cancelled
+ORD-00438,Wendy Baker,Aug 16 2023,West,cloth,Running Shoes,8.0,1203.17,9625.36,RETURNED
+ORD-00771,Victor Green,Nov 08 2024,South,sports,Jump Rope,13.0,566.59,7365.67,CANCELLED
+ORD-00712,Mia Thompson,30/08/2023,,clothing,Running Shoes,8.0,15.21,,cancelled
+ORD-00911,Quinn Walker,Nov 25 2024,s,furn,Coffee Table,3.0,1096.19,3288.57,
+ORD-00982,Quinn Walker,Dec 15 2023,south,Toys,Board Game Deluxe,17.0,829.92,14108.64,Completed
+ORD-00045,Emma Wilson,29/11/2024,NORTH,toys,RC Car,2.0,438.73,877.46,COMPLETED
+ORD-00644,Emma Wilson,09/02/2023,w,furn,Office Chair,11.0,1188.11,,done
+ORD-00977,Quinn Walker,22/10/2024,west,furniture,Standing Desk,8.0,1253.25,10026.0,cancelled
+ORD-00072,Yara Carter,Sep 06 2024,WEST,electronics,Smart Watch,8.0,1415.6,11324.8,Complete
+ORD-00980,  David Lee  ,05/10/2023,e,food,Protein Bar Pack,10.0,525.84,5258.4,pend
+ORD-00468,Zoe Mitchell,2024-05-15,SOUTH,furn,Coffee Table,11.0,860.95,9470.45,cancelled
+ORD-00827,Wendy Baker,21/01/2023,w,elec,Smart Watch,18.0,,5065.38,COMPLETED
+ORD-00551,Noah Garcia,Nov 24 2024,South,furniture,Filing Cabinet,1.0,1443.44,1443.44,returned
+ORD-00193,liam jackson,Jul 27 2024,East,furniture,Standing Desk,16.0,478.98,7663.68,Cancelled
+ORD-00939,samuel young,Jan 15 2023,SOUTH,book,ML Fundamentals,19.0,107.16,2036.04,pending
+ORD-00917,Tina King,May 02 2023,s,book,The Pragmatic Programmer,6.0,240.25,,cancel
+ORD-00102,XAVIER NELSON,2023-03-10,West,Food & Beverage,Green Tea Box,9.0,483.03,4347.27,canceled
+ORD-00137,Noah Garcia,2023-10-01,w,electronics,USB-C Hub,14.0,854.23,11959.22,Completed
+ORD-00896,Uma Scott,Dec 16 2024,West,ELECTRONICS,Gaming Mouse,12.0,468.8,5625.6,done
+ORD-00038,JAMES WHITE,24/03/2024,West,book,Python Data Science,10.0,911.82,9118.2,Completed
+ORD-00595,Rachel Allen,Mar 25 2023,NORTH,food,Green Tea Box,16.0,1144.89,18318.24,Completed
+ORD-00403,liam jackson,10/04/2024,EAST,Food & Beverage,Organic Coffee 1kg,9.0,1043.58,9392.22,Completed
+ORD-00203,XAVIER NELSON,Mar 05 2023,South,food & bev,Green Tea Box,20.0,1381.18,27623.6,RETURNED
+ORD-00180,Uma Scott,2024-01-16,s,Books,The Pragmatic Programmer,9.0,878.92,7910.28,returned
+ORD-00220,JAMES WHITE,May 20 2024,WEST,furniture,Filing Cabinet,10.0,-1252.7,12527.0,PENDING
+ORD-00159,Mia Thompson,2024-05-27,EAST,ELECTRONICS,  Smart Watch  ,12.0,1128.76,13545.12,canceled
+ORD-00932,Grace Martinez,Jan 12 2024,WEST,Toys,Puzzle 1000pc,16.0,1356.44,21703.04,Returned
+ORD-00273,Emma Wilson,Dec 14 2024,n,Books,SQL Cookbook,9.0,848.55,7636.95,COMPLETED
+ORD-00263,peter hall,2023-07-08,East,book,SQL Cookbook,4.0,453.39,1813.56,Returned
+ORD-00682,Grace Martinez,02/11/2024,NORTH,Sports,Resistance Bands,-3.0,,73.68,Returned
+ORD-00378,Emma Wilson,2023-11-24,West,food & bev,Organic Coffee 1kg,5.0,53909.9,5838.95,Returned
+ORD-00522,Noah Garcia,29/06/2024,EAST,Sports,Foam Roller,8.0,75.21,601.68,Completed
+ORD-00153,Yara Carter,2024-12-11,EAST,elec,Gaming Mouse,,1018.46,13239.98,Pending
+ORD-00952,bob smith,11/05/2023,East,food & bev,Coconut Oil,9.0,179.68,1617.12,CANCELLED
+ORD-01097,Zoe Mitchell,19/04/2023,SOUTH,elec,Gaming Mouse,4.0,427.65,1710.6,pending
+ORD-00448,Rachel Allen,2024-10-26,n,furniture,Standing Desk,20.0,798.1,15962.0,CANCELLED
+ORD-00850,Rachel Allen,05/11/2024,east,clothing,Polo Shirt,10.0,753.47,7534.7,cancel
+ORD-00347,Victor Green,,w,toy,RC Car,20.0,48.08,961.6,Complete
+ORD-01098,CAROL DAVIS,Oct 31 2024,north,toys,Puzzle 1000pc,8.0,453.46,3627.68,COMPLETED
+ORD-01187,bob smith,09/03/2024,NORTH,sports,Protein Shaker,,869.58,6087.06,completed
+ORD-01053,Tina King,May 20 2024,west,furniture,Standing Desk,,417.51,8350.2,Complete
+ORD-00473,Frank Thomas,17/01/2023,NORTH,toys,LEGO Classic Set,20.0,567.32,11346.4,Completed
+ORD-00675,CAROL DAVIS,10/09/2023,n,toys,LEGO Classic Set,19.0,274.95,5224.05,cancelled
+ORD-01143,JAMES WHITE,2024-10-23,East,furn,Office Chair,14.0,404.07,5656.98,PENDING
+ORD-00301,Yara Carter,2024-10-01,WEST,toy,RC Car,6.0,1247.86,7487.16,completed
+ORD-00839,Alice Johnson,03/01/2024,e,,The Pragmatic Programmer,18.0,75.34,1356.12,Pending
+ORD-00228,CAROL DAVIS,2024-01-02,n,CLOTHING,Polo Shirt,1.0,547.41,547.41,done
+ORD-00971,Isabella Clark,2023-07-18,south,sport,Foam Roller,6.0,335.08,2010.48,completed
+ORD-00539,JAMES WHITE,02/05/2023,EAST,Sports,Resistance Bands,18.0,365.95,6587.1,Complete
+ORD-00750,henry brown,May 26 2024,EAST,furniture,Standing Desk,8.0,572.86,4582.88,pend
+ORD-01188,,2023-02-10,east,CLOTHING,Yoga Pants,18.0,1389.89,25018.02,cancelled
+ORD-00973,bob smith,2024-11-08,s,sports,Yoga Mat,12.0,620.83,7449.96,PENDING
+ORD-00391,peter hall,11/08/2024,w,Toys,LEGO Classic Set,12.0,932.9,11194.8,Pending
+ORD-01104,Noah Garcia,07/10/2024,west,electronics,Laptop Pro 15,12.0,1425.13,17101.56,Cancelled
+ORD-01006,Noah Garcia,23/07/2023,n,Furniture,Office Chair,8.0,1001.16,8009.28,RETURNED
+ORD-00051,Uma Scott,18/11/2024,EAST,toy,Art Kit,17.0,845.69,14376.73,CANCELLED
+ORD-00745,XAVIER NELSON,08/04/2023,west,Books,Clean Code,15.0,601.1,9016.5,cancelled
+ORD-00151,Zoe Mitchell,30/09/2023,w,elec,Wireless Headphones,7.0,1419.35,9935.45,canceled
+ORD-00347,JAMES WHITE,2023-12-14,EAST,cloth,Polo Shirt,17.0,122.58,2083.86,Pending
+ORD-00574,henry brown,Oct 26 2023,NORTH,CLOTHING,Winter Jacket,,429.31,5581.03,Returned
+ORD-00079,Karen Harris,19/11/2024,w,toys,Art Kit,6.0,295.05,,completed
+ORD-00106,samuel young,Jul 27 2023,WEST,food & bev,Granola Mix,19.0,1409.04,26771.76,pend
+ORD-00015,  David Lee  ,Nov 08 2023,,book,ML Fundamentals,5.0,1164.01,5820.05,Returned
+ORD-00762,,2024-12-08,north,furniture,Bookshelf,19.0,76.33,1450.27,pending
+ORD-00182,Quinn Walker,Aug 24 2024,,,Polo Shirt,7.0,714.29,5000.03,Returned
+ORD-00654,henry brown,10/07/2023,North,Books,ML Fundamentals,15.0,580.15,8702.25,returned
+ORD-00990,Grace Martinez,Sep 09 2023,WEST,food,Coconut Oil,1.0,416.07,416.07,COMPLETED
+ORD-00121,Frank Thomas,2024-11-26,e,furn,Office Chair,9.0,1322.48,11902.32,returned
+ORD-00138,Noah Garcia,25/11/2024,e,food,Green Tea Box,18.0,591.47,10646.46,canceled
+ORD-00717,samuel young,Oct 20 2024,EAST,Books,ML Fundamentals,,1023.29,15349.35,cancelled
+ORD-00711,Olivia Lewis,14/12/2024,EAST,Books,Clean Code,12.0,716.86,8602.32,COMPLETED
+ORD-00616,Alice Johnson,23/06/2024,North,books,Python Data Science,8.0,904.49,7235.92,cancelled
+ORD-00422,liam jackson,Sep 18 2023,NORTH,furniture,Coffee Table,19.0,240.03,4560.57,done
+ORD-00639,Quinn Walker,Mar 28 2024,EAST,Toys,Puzzle 1000pc,14.0,148.58,2080.12,RETURNED
+ORD-00508,Emma Wilson,19/06/2024,south,elec,Laptop Pro 15,5.0,702.14,3510.7,Cancelled
+ORD-00360,Uma Scott,2023-04-10,w,cloth,Running Shoes,10.0,98.95,989.5,cancel
+ORD-00547,Mia Thompson,26/08/2023,e,Toys,LEGO Classic Set,19.0,1462.91,27795.29,returned
+ORD-00817,Frank Thomas,Jan 23 2024,West,book,SQL Cookbook,17.0,920.05,15640.85,completed
+ORD-00149,Wendy Baker,Mar 22 2023,e,food,Coconut Oil,5.0,1186.79,5933.95,completed
+ORD-00014,  David Lee  ,2024-06-16,w,cloth,Polo Shirt,,189.81,342152.4,CANCELLED
+ORD-00531,Uma Scott,Jun 29 2024,west,clothing,Yoga Pants,15.0,-405.56,,completed
+ORD-00723,peter hall,2023-03-13,north,furn,Standing Desk,1.0,101.6,101.6,done
+ORD-00299,Mia Thompson,Feb 02 2024,north,Electronics,USB-C Hub,9.0,1360.83,12247.47,pending
+ORD-01055,Tina King,Jun 21 2023,EAST,Food & Beverage,Organic Coffee 1kg,6.0,1148.21,6889.26,cancelled
+ORD-00143,samuel young,22/10/2024,EAST,clothing,Denim Jeans,5.0,1196.34,5981.7,pend
+ORD-00204,JAMES WHITE,2024-11-24,west,Clothing,Polo Shirt,20.0,,6545.4,Pending
+ORD-01182,Yara Carter,2023-04-14,north,furn,Office Chair,16.0,730.37,11685.92,pend
+ORD-00336,peter hall,2024-10-31,w,toys,Puzzle 1000pc,2.0,1104.51,2209.02,completed
+ORD-00097,Wendy Baker,2023-12-19,West,furn,Filing Cabinet,17.0,1176.28,19996.76,completed
+ORD-00317,Quinn Walker,29/11/2024,North,Clothing,Polo Shirt,14.0,1347.61,18866.54,Returned
+ORD-00025,Tina King,2024-03-31,s,Food & Beverage,Coconut Oil,14.0,724.69,10145.66,done
+ORD-00784,Isabella Clark,Oct 01 2024,,ELECTRONICS,Laptop Pro 15,5.0,103.19,515.95,canceled
+ORD-01127,XAVIER NELSON,2023-08-17,North,elec,Wireless Headphones,13.0,795.62,10343.06,Cancelled
+ORD-01025,liam jackson,10/10/2024,e,elec,Laptop Pro 15,8.0,8.28,66.24,Complete
+ORD-00333,CAROL DAVIS,04/02/2023,North,books,ML Fundamentals,8.0,248.17,1985.36,cancelled
+ORD-00268,  David Lee  ,Apr 10 2023,North,clothing,Denim Jeans,12.0,504.75,6057.0,done
+ORD-00335,Emma Wilson,2023-10-04,NORTH,electronics,Smart Watch,13.0,984.64,12800.32,COMPLETED
+ORD-00864,XAVIER NELSON,Aug 25 2024,e,Books,Python Data Science,8.0,318.77,2550.16,cancel
+ORD-00019,Quinn Walker,2023-12-02,West,toys,Puzzle 1000pc,13.0,1241.35,16137.55,Complete
+ORD-00665,Isabella Clark,May 12 2024,s,sports,Jump Rope,9.0,1368.99,12320.91,cancelled
+ORD-00761,JAMES WHITE,13/08/2023,WEST,Electronics,Gaming Mouse,11.0,221.33,,done
+ORD-00021,JAMES WHITE,2023-07-06,South,Books,Clean Code,6.0,1069.16,6414.96,Pending
+ORD-00213,Uma Scott,Nov 17 2023,West,CLOTHING,Polo Shirt,16.0,793.93,12702.88,canceled
+ORD-00148,bob smith,2024-11-08,North,Food & Beverage,Protein Bar Pack,20.0,77.64,1552.8,completed
+ORD-00960,Tina King,Nov 07 2024,south,,USB-C Hub,6.0,1009.78,6058.68,Returned
+ORD-00296,XAVIER NELSON,2024-08-22,NORTH,sports,Yoga Mat,20.0,99.54,1990.8,CANCELLED
+ORD-00919,Olivia Lewis,22/05/2024,West,CLOTHING,Winter Jacket,18.0,979.63,17633.34,pending
+ORD-00063,Frank Thomas,2024-05-30,,Clothing,Winter Jacket,2.0,908.24,1816.48,canceled
+ORD-00787,Wendy Baker,Jan 22 2024,s,furniture,Bookshelf,19.0,1010.29,19195.51,Complete
+ORD-00878,CAROL DAVIS,May 16 2023,West,Clothing,Winter Jacket,1.0,1036.62,,cancel
+ORD-00350,Wendy Baker,Oct 18 2023,s,Toys,Board Game Deluxe,9.0,216.63,1949.67,Pending
+ORD-01179,Tina King,Jul 31 2024,North,clothing,Denim Jeans,,1437.57,24438.69,Cancelled
+ORD-00821,XAVIER NELSON,Nov 03 2024,South,furn,Office Chair,13.0,429.8,,cancelled
+ORD-00658,Rachel Allen,2023-05-02,EAST,Clothing,Yoga Pants,11.0,106.38,1170.18,done
+ORD-00629,JAMES WHITE,Sep 10 2023,NORTH,food,Coconut Oil,3.0,1159.39,3478.17,COMPLETED
+ORD-00842,Mia Thompson,Feb 07 2023,north,Food & Beverage,Coconut Oil,15.0,430.13,6451.95,cancelled
+ORD-00017,,Nov 24 2024,West,cloth,Denim Jeans,20.0,71.22,1424.4,cancelled
+ORD-00270,Noah Garcia,2024-12-03,w,Food & Beverage,Organic Coffee 1kg,16.0,1271.71,20347.36,Returned
+ORD-00371,Olivia Lewis,2024-06-02,,elec,Smart Watch,7.0,1370.46,9593.22,RETURNED
+ORD-00386,Grace Martinez,16/12/2023,SOUTH,book,  The Pragmatic Programmer  ,10.0,274.49,2744.9,PENDING
+ORD-00709,Zoe Mitchell,Mar 02 2023,e,clothing,Yoga Pants,7.0,1221.23,,
+ORD-00823,Karen Harris,,South,food & bev,Green Tea Box,,1293.71,21993.07,returned
+ORD-00652,Grace Martinez,21/10/2023,EAST,toys,Board Game Deluxe,7.0,484.72,3393.04,Returned
+ORD-00599,Rachel Allen,2024-03-07,SOUTH,Sports,Resistance Bands,5.0,1253.7,6268.5,PENDING
+ORD-00245,Emma Wilson,2023-08-23,South,toy,Puzzle 1000pc,,945.22,17959.18,canceled
+ORD-00683,Mia Thompson,2024-09-11,EAST,CLOTHING,Winter Jacket,15.0,100.64,1509.6,returned
+ORD-00556,Quinn Walker,Nov 10 2023,s,sport,Jump Rope,9.0,1379.13,12412.17,cancel
+ORD-00045,bob smith,2024-02-23,East,sports,Jump Rope,6.0,293.92,1763.52,cancel
+ORD-00309,Mia Thompson,Jul 08 2023,west,Electronics,USB-C Hub,2.0,340.55,681.1,completed
+ORD-01075,Victor Green,,West,sports,Protein Shaker,7.0,702.71,4918.97,Complete
+ORD-00512,peter hall,2024-01-06,West,Clothing,Denim Jeans,6.0,143.7,862.2,Complete
+ORD-01073,Zoe Mitchell,13/02/2023,s,toy,Board Game Deluxe,6.0,161.75,970.5,Completed
+ORD-00998,Tina King,2023-07-24,north,electronics,Smart Watch,5.0,642.32,3211.6,canceled
+ORD-01076,Quinn Walker,01/09/2023,w,Electronics,USB-C Hub,10.0,160.4,1604.0,completed
+ORD-00530,Quinn Walker,09/08/2023,west,,Wireless Headphones,1.0,142.18,142.18,Returned
+ORD-00710,Tina King,Nov 09 2023,,Clothing,Running Shoes,1.0,339.54,339.54,cancel
+ORD-00742,Quinn Walker,,w,furniture,Bookshelf,3.0,615.71,1847.13,pending
+ORD-01112,Karen Harris,24/04/2024,south,Toys,RC Car,6.0,817.71,4906.26,COMPLETED
+ORD-00549,Wendy Baker,Sep 27 2023,West,books,ML Fundamentals,6.0,63.03,378.18,PENDING
+ORD-00603,Isabella Clark,2024-01-14,north,,Yoga Mat,16.0,351.47,5623.52,pending
+ORD-00606,Yara Carter,2024-08-21,South,Books,The Pragmatic Programmer,7.0,208.49,1459.43,Complete
+ORD-00055,Yara Carter,2024-11-02,south,elec,Wireless Headphones,6.0,905.59,5433.54,
+ORD-00250,samuel young,Feb 04 2024,s,ELECTRONICS,Wireless Headphones,11.0,-497.28,,cancel
+ORD-00737,liam jackson,May 02 2023,west,Books,  SQL Cookbook  ,6.0,1416.38,8498.28,Complete
+ORD-00502,Emma Wilson,Apr 08 2023,West,book,  SQL Cookbook  ,18.0,909.28,16367.04,pending
+ORD-00141,Tina King,2024-08-27,s,toy,Art Kit,11.0,1383.92,,canceled
+ORD-00173,peter hall,Sep 03 2024,NORTH,sports,Foam Roller,4.0,1356.29,5425.16,Pending
+ORD-00216,,2023-10-15,East,food & bev,Organic Coffee 1kg,11.0,1354.46,14899.06,returned
+ORD-01094,Alice Johnson,06/11/2023,WEST,toy,Board Game Deluxe,,770.97,10793.58,pending
+ORD-00318,Mia Thompson,2024-12-04,,Electronics,USB-C Hub,11.0,1461.73,16079.03,cancel
+ORD-00655,XAVIER NELSON,13/02/2023,North,Toys,Puzzle 1000pc,12.0,112.75,,Returned
+ORD-00061,peter hall,2023-11-21,west,food,  Protein Bar Pack  ,15.0,1401.06,21015.9,pend
+ORD-01141,CAROL DAVIS,22/12/2024,e,Clothing,Yoga Pants,1.0,1204.61,1204.61,COMPLETED
+ORD-00462,Uma Scott,29/02/2024,WEST,food,Granola Mix,19.0,950.44,18058.36,COMPLETED
+ORD-00040,XAVIER NELSON,15/06/2023,SOUTH,Furniture,Coffee Table,10.0,342.12,3421.2,COMPLETED
+ORD-01142,Rachel Allen,Dec 04 2023,north,sport,Protein Shaker,2.0,213.24,426.48,PENDING
+ORD-01070,bob smith,Feb 06 2023,East,food,Organic Coffee 1kg,4.0,333.27,,PENDING
+ORD-00091,Grace Martinez,07/12/2024,East,furn,Bookshelf,7.0,,153.23,COMPLETED
+ORD-00903,Rachel Allen,Oct 05 2023,n,elec,Gaming Mouse,19.0,1298.77,24676.63,completed
+ORD-00489,peter hall,2023-05-17,north,Sports,Yoga Mat,1.0,546.79,546.79,CANCELLED
+ORD-00351,JAMES WHITE,2024-03-15,s,elec,Smart Watch,19.0,709.74,13485.06,cancel
+ORD-00867,Yara Carter,14/06/2024,north,,USB-C Hub,1.0,696.9,,COMPLETED
+ORD-00482,liam jackson,2023-02-14,SOUTH,furniture,Coffee Table,19.0,1369.5,26020.5,pending
+ORD-00578,Emma Wilson,02/12/2024,w,Food & Beverage,Green Tea Box,7.0,173.46,1214.22,Pending
+ORD-00523,Tina King,04/09/2024,West,sport,  Yoga Mat  ,12.0,833.56,10002.72,Completed
+ORD-00487,Zoe Mitchell,2023-10-16,NORTH,Clothing,Denim Jeans,19.0,1241.02,,cancel
+ORD-00467,JAMES WHITE,Jan 12 2024,West,Furniture,Bookshelf,14.0,878.78,12302.92,pend
+ORD-00733,CAROL DAVIS,21/06/2023,East,clothing,Running Shoes,9.0,742.22,6679.98,cancel
+ORD-00768,,Aug 04 2024,West,toys,LEGO Classic Set,5.0,1465.98,7329.9,canceled
+ORD-01195,Uma Scott,2024-03-12,north,ELECTRONICS,USB-C Hub,20.0,283.6,5672.0,RETURNED
+ORD-00389,peter hall,May 01 2024,south,furn,Bookshelf,12.0,1413.2,16958.4,cancel
+ORD-00650,Karen Harris,Jan 18 2023,e,book,SQL Cookbook,1.0,1479.34,1479.34,completed
+,Emma Wilson,2023-08-03,SOUTH,toys,Puzzle 1000pc,16.0,440.17,7042.72,Completed
+ORD-00901,Yara Carter,2023-10-07,,ELECTRONICS,Smart Watch,12.0,1364.32,16371.84,pend
+ORD-00094,Emma Wilson,Apr 16 2023,SOUTH,Toys,Art Kit,7.0,120.83,845.81,pend
+ORD-00730,samuel young,2024-11-04,south,electronics,Laptop Pro 15,9.0,1349.47,12145.23,cancelled
+ORD-00052,Alice Johnson,13/12/2024,e,electronics,Wireless Headphones,5.0,569.3,,completed
+ORD-00804,Frank Thomas,21/04/2023,west,Books,ML Fundamentals,15.0,168.13,2521.95,pending
+ORD-00792,Karen Harris,2024-12-27,East,clothing,Yoga Pants,10.0,1059.37,10593.7,cancel
+ORD-00846,Frank Thomas,2024-03-03,north,Food & Beverage,Coconut Oil,2.0,1370.28,2740.56,canceled
+ORD-00420,Quinn Walker,,e,Clothing,Denim Jeans,8.0,1346.44,10771.52,Returned
+ORD-00594,CAROL DAVIS,10/12/2024,w,sports,Resistance Bands,18.0,909.6,16372.8,cancelled
+ORD-00575,JAMES WHITE,2023-01-25,EAST,Food & Beverage,Organic Coffee 1kg,14.0,973.83,13633.62,cancelled
+ORD-00321,Karen Harris,27/06/2023,EAST,CLOTHING,Yoga Pants,16.0,790.59,12649.44,CANCELLED
+ORD-00820,peter hall,2023-11-03,west,Toys,LEGO Classic Set,16.0,1420.7,22731.2,Cancelled
+ORD-00773,henry brown,02/04/2023,east,Food & Beverage,Coconut Oil,12.0,725.07,8700.84,CANCELLED
+ORD-01096,liam jackson,19/02/2023,east,clothing,Winter Jacket,14.0,956.19,13386.66,RETURNED
+ORD-00415,Yara Carter,2023-12-18,east,Clothing,Winter Jacket,15.0,630.24,9453.6,Pending
+ORD-00571,Grace Martinez,04/06/2023,west,Furniture,Office Chair,3.0,534.87,1604.61,RETURNED
+ORD-00519,Quinn Walker,23/08/2023,NORTH,,Jump Rope,9.0,1429.16,12862.44,Cancelled
+ORD-00328,Alice Johnson,Oct 22 2024,north,Clothing,Denim Jeans,12.0,1232.94,14795.28,completed
+ORD-00458,Olivia Lewis,12/09/2024,west,Sports,Foam Roller,5.0,719.88,3599.4,returned
+ORD-00396,Grace Martinez,2024-09-11,East,furniture,Coffee Table,14.0,1449.57,20293.98,completed
+ORD-00968,bob smith,2023-08-24,w,sport,Protein Shaker,4.0,1342.71,,pend
+ORD-00910,Karen Harris,2024-01-10,w,Toys,Board Game Deluxe,16.0,1438.0,23008.0,cancel
+ORD-00334,Karen Harris,2024-10-29,EAST,Furniture,Standing Desk,16.0,820.66,13130.56,Returned
+ORD-01120,Wendy Baker,Jan 28 2023,east,Toys,Art Kit,20.0,430.96,8619.2,pending
+ORD-01084,Olivia Lewis,2024-04-18,WEST,furniture,Filing Cabinet,9.0,1272.15,11449.35,Completed
+ORD-00830,Isabella Clark,18/02/2023,West,Food & Beverage,Organic Coffee 1kg,18.0,325.05,5850.9,PENDING
+ORD-00996,Uma Scott,Oct 28 2024,WEST,elec,Gaming Mouse,19.0,457.63,8694.97,completed
+ORD-01138,bob smith,24/11/2024,,Clothing,Winter Jacket,12.0,597.39,7168.68,Pending
+ORD-00465,Isabella Clark,Feb 03 2023,e,sport,Yoga Mat,20.0,615.13,12302.6,pending
+ORD-00632,CAROL DAVIS,11/07/2023,WEST,furniture,Coffee Table,9.0,-157.84,1420.56,RETURNED
+ORD-00211,Yara Carter,24/12/2023,South,ELECTRONICS,Gaming Mouse,17.0,767.38,13045.46,PENDING
+ORD-00625,Olivia Lewis,2023-12-31,South,Toys,Art Kit,5.0,145.96,729.8,
+ORD-00965,Isabella Clark,May 21 2024,West,books,ML Fundamentals,17.0,88.33,1501.61,CANCELLED
+ORD-00541,Zoe Mitchell,Apr 21 2023,North,Electronics,Smart Watch,3.0,,1586.91,completed
+ORD-00017,Isabella Clark,Sep 29 2024,,food & bev,Organic Coffee 1kg,4.0,995.41,3981.64,cancel
+ORD-00568,Noah Garcia,2024-11-26,north,Sports,Foam Roller,5.0,567.95,2839.75,Complete
+ORD-00726,bob smith,07/02/2024,WEST,sports,Yoga Mat,11.0,743.26,8175.86,returned
+ORD-00352,Olivia Lewis,22/06/2023,n,books,Python Data Science,18.0,1480.89,26656.02,returned
+ORD-00267,Zoe Mitchell,27/07/2023,EAST,elec,Laptop Pro 15,20.0,,6695.2,canceled
+ORD-01029,Emma Wilson,24/11/2023,South,toys,LEGO Classic Set,6.0,874.57,5247.42,CANCELLED
+ORD-00187,henry brown,Aug 01 2024,west,food,Green Tea Box,3.0,1432.99,4298.97,Complete
+ORD-00948,CAROL DAVIS,Aug 04 2023,west,books,Python Data Science,16.0,1439.03,23024.48,canceled
+ORD-01011,Karen Harris,2023-10-03,east,book,Python Data Science,17.0,782.9,13309.3,PENDING
+ORD-00090,liam jackson,11/07/2023,north,Food & Beverage,Coconut Oil,12.0,1328.81,15945.72,pend
+ORD-00212,Zoe Mitchell,Aug 01 2024,WEST,books,The Pragmatic Programmer,19.0,1002.0,19038.0,cancelled
+ORD-00120,samuel young,2023-11-10,NORTH,food & bev,Protein Bar Pack,4.0,578.41,2313.64,completed
+ORD-00195,samuel young,2024-05-10,north,cloth,Denim Jeans,19.0,,16138.03,cancelled
+ORD-00586,Mia Thompson,2023-04-16,NORTH,cloth,Denim Jeans,3.0,319.8,959.4,returned
+ORD-01149,Alice Johnson,2024-12-20,NORTH,sports,Jump Rope,16.0,88.89,1422.24,returned
+ORD-00536,,May 14 2023,n,Food & Beverage,Protein Bar Pack,13.0,135.41,,completed
+ORD-00796,Alice Johnson,22/07/2024,s,book,The Pragmatic Programmer,9.0,1318.62,11867.58,done
+ORD-00041,henry brown,Oct 31 2023,East,Books,ML Fundamentals,17.0,391.96,6663.32,Complete
+ORD-00223,Karen Harris,2023-01-29,east,elec,Laptop Pro 15,20.0,1169.3,23386.0,Pending
+ORD-00340,XAVIER NELSON,Aug 02 2024,south,toys,Art Kit,18.0,294.69,5304.42,COMPLETED
+ORD-00266,Noah Garcia,25/10/2023,SOUTH,toy,Board Game Deluxe,15.0,342.68,5140.2,COMPLETED
+ORD-00748,Noah Garcia,2024-12-17,West,food & bev,Granola Mix,3.0,1382.24,4146.72,done
+ORD-00225,Emma Wilson,2024-08-28,n,toy,LEGO Classic Set,,439.85,879.7,pending
+ORD-00640,bob smith,Apr 10 2023,e,Books,SQL Cookbook,17.0,1025.9,17440.3,cancel
+ORD-00254,peter hall,29/04/2023,east,food & bev,Protein Bar Pack,2.0,127.96,255.92,Returned
+ORD-00135,Karen Harris,Mar 15 2024,North,book,Python Data Science,8.0,82.8,662.4,cancel
+ORD-00075,liam jackson,10/07/2023,e,toy,RC Car,12.0,165.21,1982.52,Completed
+ORD-00375,Wendy Baker,Apr 05 2024,e,furn,Standing Desk,4.0,141.33,565.32,COMPLETED
+ORD-01020,JAMES WHITE,10/01/2023,e,Toys,LEGO Classic Set,19.0,1311.26,24913.94,cancelled
+ORD-00840,Frank Thomas,2024-02-07,NORTH,Electronics,Laptop Pro 15,15.0,273.43,4101.45,cancel
+ORD-01060,CAROL DAVIS,31/12/2024,South,furniture,Filing Cabinet,18.0,236.78,4262.04,pending
+ORD-00277,Frank Thomas,2023-04-20,South,Electronics,Gaming Mouse,14.0,1210.22,16943.08,PENDING
+ORD-00464,Alice Johnson,Jan 18 2023,East,food,  Granola Mix  ,18.0,829.71,14934.78,Cancelled
+ORD-00450,Frank Thomas,2024-07-02,n,Food & Beverage,Organic Coffee 1kg,14.0,335.86,4702.04,cancelled
+ORD-00692,Uma Scott,2023-02-14,s,sports,  Jump Rope  ,1.0,1146.35,1146.35,COMPLETED
+ORD-00529,Grace Martinez,Jul 04 2024,west,,Running Shoes,14.0,1254.32,,COMPLETED
+ORD-00663,  David Lee  ,30/11/2023,East,food & bev,  Organic Coffee 1kg  ,7.0,572.24,4005.68,Pending
+ORD-01068,Alice Johnson,,SOUTH,Books,SQL Cookbook,12.0,1121.9,13462.8,Complete
+ORD-01197,Alice Johnson,26/10/2024,e,electronics,Wireless Headphones,7.0,804.22,5629.54,cancelled
+ORD-00324,bob smith,21/12/2023,w,book,The Pragmatic Programmer,18.0,757.65,13637.7,pend
+ORD-01032,Karen Harris,2023-10-07,w,toy,LEGO Classic Set,19.0,146.63,2785.97,cancel
+ORD-00902,liam jackson,Jun 09 2023,NORTH,Books,Python Data Science,8.0,303.53,2428.24,Complete
+ORD-00058,Zoe Mitchell,14/08/2023,north,food & bev,Granola Mix,3.0,850.27,2550.81,pend
+ORD-00399,Olivia Lewis,2024-07-06,east,Toys,LEGO Classic Set,12.0,226.18,2714.16,Complete
+ORD-00927,XAVIER NELSON,13/07/2024,south,books,SQL Cookbook,12.0,258.05,3096.6,completed
+ORD-00552,samuel young,2024-03-07,east,furniture,  Coffee Table  ,5.0,217.5,1087.5,Cancelled
+ORD-01113,Uma Scott,2024-12-12,east,book,The Pragmatic Programmer,11.0,668.74,7356.14,Complete
+ORD-00581,samuel young,May 14 2023,w,CLOTHING,Polo Shirt,10.0,509.94,5099.4,cancelled
+ORD-00620,peter hall,Apr 03 2023,EAST,food,Organic Coffee 1kg,18.0,952.15,17138.7,PENDING
+ORD-00798,peter hall,Aug 23 2024,e,Sports,Jump Rope,6.0,1440.98,8645.88,CANCELLED
+ORD-00589,Wendy Baker,2023-07-04,w,furn,Coffee Table,-15.0,219.12,3286.8,
+ORD-01081,  David Lee  ,Oct 25 2023,,electronics,Smart Watch,4.0,503.56,2014.24,cancelled
+ORD-00275,Quinn Walker,09/03/2024,north,book,The Pragmatic Programmer,19.0,196.73,3737.87,RETURNED
+ORD-00057,peter hall,Apr 04 2023,WEST,furn,Filing Cabinet,7.0,,7537.53,completed
+ORD-00113,Noah Garcia,2024-12-11,w,food,  Granola Mix  ,11.0,1226.58,13492.38,COMPLETED
+ORD-00374,CAROL DAVIS,Mar 26 2023,s,food & bev,Green Tea Box,15.0,729.72,10945.8,Returned
+ORD-00377,Zoe Mitchell,2023-11-28,North,toy,Puzzle 1000pc,11.0,1076.82,11845.02,done
+ORD-00865,liam jackson,2023-04-22,WEST,Electronics,Smart Watch,2.0,902.87,1805.74,Complete
+ORD-00100,Frank Thomas,2023-04-13,West,food,Organic Coffee 1kg,15.0,1175.75,17636.25,cancelled
+ORD-00565,Zoe Mitchell,2023-07-29,NORTH,CLOTHING,Running Shoes,19.0,,15685.07,cancel
+ORD-00428,peter hall,08/01/2024,South,book,  Python Data Science  ,1.0,370.6,370.6,Pending
+ORD-01077,Mia Thompson,Mar 24 2024,NORTH,books,The Pragmatic Programmer,16.0,1009.78,16156.48,Complete
+ORD-00659,Emma Wilson,06/07/2024,East,ELECTRONICS,Smart Watch,14.0,267.58,3746.12,Pending
+ORD-00561,Alice Johnson,Nov 02 2023,n,books,Clean Code,10.0,1315.73,13157.3,cancelled
+ORD-00174,samuel young,19/04/2023,,Electronics,Smart Watch,4.0,594.28,2377.12,Completed
+ORD-00635,Grace Martinez,Aug 29 2024,North,,Board Game Deluxe,1.0,244.2,244.2,RETURNED
+ORD-00248,bob smith,11/08/2023,n,books,The Pragmatic Programmer,10.0,28.31,283.1,completed
+ORD-00855,Emma Wilson,2023-07-02,SOUTH,elec,Gaming Mouse,2.0,,2507.22,Complete
+ORD-00181,XAVIER NELSON,02/12/2024,west,book,Clean Code,5.0,364.36,1821.8,cancel
+ORD-00593,Rachel Allen,20/08/2023,North,toy,RC Car,3.0,528.93,1586.79,pending
+ORD-00918,Isabella Clark,Feb 21 2023,s,clothing,Winter Jacket,11.0,365.13,4016.43,canceled
+ORD-00628,  David Lee  ,28/01/2024,EAST,Toys,  Art Kit  ,2.0,1486.11,2972.22,canceled
+ORD-00986,liam jackson,Sep 18 2023,NORTH,elec,USB-C Hub,19.0,1220.17,23183.23,RETURNED
+ORD-00544,Isabella Clark,2023-05-29,EAST,books,Python Data Science,14.0,1439.58,20154.12,done
+ORD-01176,Frank Thomas,2023-04-15,South,book,The Pragmatic Programmer,16.0,620.93,9934.88,RETURNED
+ORD-00080,bob smith,Nov 06 2024,north,Electronics,USB-C Hub,2.0,298.54,597.08,returned
+ORD-00470,peter hall,07/09/2024,s,food & bev,Granola Mix,16.0,1260.98,20175.68,Completed
+ORD-01001,Zoe Mitchell,2023-05-24,e,toys,LEGO Classic Set,4.0,,1237.16,cancel
+ORD-00313,Noah Garcia,2023-12-19,SOUTH,cloth,Yoga Pants,18.0,1288.76,23197.68,pending
+ORD-00716,Emma Wilson,2023-01-31,north,elec,Smart Watch,8.0,944.41,7555.28,COMPLETED
+ORD-00411,Grace Martinez,,,CLOTHING,Polo Shirt,6.0,903.41,,Completed
+ORD-00054,CAROL DAVIS,16/10/2024,East,food & bev,Green Tea Box,15.0,992.41,14886.15,cancel
+ORD-00913,samuel young,2023-08-18,North,Sports,Resistance Bands,13.0,1417.41,18426.33,PENDING
+ORD-00086,Zoe Mitchell,05/11/2023,,food & bev,Granola Mix,3.0,942.65,2827.95,Completed
+ORD-00124,Uma Scott,14/03/2023,WEST,book,Python Data Science,4.0,492.18,1968.72,canceled
+ORD-00995,Alice Johnson,May 02 2024,WEST,elec,Laptop Pro 15,15.0,284.61,4269.15,CANCELLED
+ORD-01093,Uma Scott,Nov 10 2024,NORTH,ELECTRONICS,Gaming Mouse,3.0,371.62,1114.86,Cancelled
+ORD-00687,Wendy Baker,Jun 09 2024,n,Clothing,Yoga Pants,15.0,198.43,2976.45,pending
+ORD-01087,Zoe Mitchell,13/06/2024,n,sport,Jump Rope,19.0,121.82,2314.58,Complete
+ORD-01170,Olivia Lewis,12/02/2024,east,Toys,RC Car,2.0,288.83,577.66,Returned
+ORD-00300,Tina King,Nov 27 2024,n,sports,Foam Roller,18.0,423.18,7617.24,done
+ORD-00870,Alice Johnson,2024-02-29,North,food,Protein Bar Pack,14.0,1011.58,14162.12,Completed
+ORD-00285,,2024-02-15,NORTH,toys,Art Kit,12.0,503.49,6041.88,
+ORD-01095,Yara Carter,2024-10-28,WEST,Sports,Protein Shaker,12.0,190.1,2281.2,Cancelled
+ORD-00004,henry brown,2024-05-04,,food & bev,Organic Coffee 1kg,14.0,1104.82,15467.48,Completed
+ORD-01058,bob smith,03/07/2023,West,food & bev,Green Tea Box,8.0,1052.11,8416.88,Cancelled
+ORD-00510,CAROL DAVIS,2024-04-05,north,sport,Resistance Bands,12.0,1347.35,16168.2,
+ORD-00069,Emma Wilson,11/09/2023,NORTH,toys,RC Car,14.0,475.18,6652.52,PENDING
+ORD-00751,Karen Harris,Apr 30 2023,East,sport,Foam Roller,3.0,757.24,2271.72,pend
+ORD-00234,,Jun 14 2024,South,books,The Pragmatic Programmer,10.0,556.4,5564.0,completed
+ORD-00053,Zoe Mitchell,16/07/2023,west,toys,Puzzle 1000pc,2.0,1126.12,2252.24,Returned
+ORD-01021,henry brown,2023-09-29,s,food,Green Tea Box,7.0,356.12,,pending
+ORD-00747,Emma Wilson,Jan 18 2024,south,Books,Python Data Science,17.0,309.17,5255.89,PENDING
+ORD-00494,CAROL DAVIS,22/10/2024,West,food & bev,Green Tea Box,10.0,1385.6,13856.0,returned
+ORD-00155,  David Lee  ,Apr 15 2024,n,ELECTRONICS,Wireless Headphones,19.0,1301.07,24720.33,Complete
+ORD-00724,XAVIER NELSON,2023-06-22,e,Clothing,Polo Shirt,19.0,1466.47,27862.93,pending
+ORD-00426,Tina King,2024-10-18,s,toy,Puzzle 1000pc,3.0,492.92,1478.76,pend
+ORD-00241,Grace Martinez,2023-03-13,NORTH,furniture,Standing Desk,13.0,1032.61,13423.93,cancel
+ORD-00197,Frank Thomas,12/09/2024,n,food & bev,Organic Coffee 1kg,,264.07,1320.35,cancel
+ORD-00835,Wendy Baker,22/06/2024,WEST,ELECTRONICS,Smart Watch,19.0,180.44,3428.36,returned
+ORD-00215,JAMES WHITE,30/08/2024,w,toy,Board Game Deluxe,20.0,1110.28,22205.6,Cancelled
+ORD-00719,Grace Martinez,29/06/2024,e,elec,Wireless Headphones,,1193.37,5966.85,cancelled
+ORD-00062,Emma Wilson,Oct 07 2024,EAST,Clothing,Polo Shirt,6.0,635.17,3811.02,returned
+ORD-01033,Grace Martinez,22/09/2024,,elec,Laptop Pro 15,4.0,1107.52,4430.08,completed
+ORD-00215,Isabella Clark,09/01/2024,North,books,The Pragmatic Programmer,9.0,996.8,8971.2,CANCELLED
+ORD-00969,Karen Harris,Nov 16 2023,WEST,furn,Standing Desk,17.0,773.32,13146.44,done
+ORD-00770,Emma Wilson,2024-02-25,w,elec,USB-C Hub,3.0,796.0,2388.0,Completed
+ORD-00550,samuel young,Aug 22 2023,East,toys,Puzzle 1000pc,5.0,393.14,1965.7,
+ORD-00427,Uma Scott,Nov 09 2023,s,ELECTRONICS,Smart Watch,6.0,82.42,494.52,cancel
+ORD-00122,peter hall,2023-09-04,east,sport,Resistance Bands,6.0,,6797.1,done
+ORD-00194,Karen Harris,Dec 05 2024,West,Furniture,Office Chair,10.0,117.19,1171.9,pend
+ORD-01048,liam jackson,2023-10-21,NORTH,book,Python Data Science,15.0,61.22,918.3,RETURNED
+ORD-00417,  David Lee  ,10/10/2024,north,elec,USB-C Hub,20.0,1391.21,27824.2,Cancelled
+ORD-00513,liam jackson,01/08/2023,east,clothing,Polo Shirt,14.0,185.5,2597.0,Returned
+ORD-00008,Zoe Mitchell,08/05/2024,e,sport,Protein Shaker,17.0,646.29,10986.93,Complete
+ORD-00073,Victor Green,Jan 03 2024,east,furn,Standing Desk,16.0,1360.26,21764.16,Pending
+ORD-00177,XAVIER NELSON,Oct 13 2024,,Clothing,Yoga Pants,20.0,687.53,13750.6,RETURNED
+ORD-01030,Mia Thompson,2024-08-11,East,Sports,Protein Shaker,7.0,684.86,4794.02,Pending
+ORD-00280,Olivia Lewis,Aug 07 2024,North,cloth,  Winter Jacket  ,10.0,246.9,2469.0,Returned
+ORD-00434,samuel young,08/06/2024,South,ELECTRONICS,Wireless Headphones,10.0,1181.01,342152.4,
+ORD-00517,Victor Green,24/05/2024,East,food,Coconut Oil,15.0,306.89,4603.35,cancelled
+ORD-00380,Yara Carter,Apr 21 2024,South,furniture,Bookshelf,18.0,122.43,2203.74,COMPLETED
+ORD-01156,Uma Scott,,WEST,toys,Board Game Deluxe,12.0,821.29,9855.48,returned
+ORD-00067,XAVIER NELSON,07/03/2023,WEST,Furniture,Office Chair,14.0,791.5,11081.0,CANCELLED
+ORD-00677,Wendy Baker,19/02/2024,West,ELECTRONICS,Gaming Mouse,8.0,1324.49,10595.92,Complete
+ORD-01079,Rachel Allen,Jan 06 2023,w,toy,  Board Game Deluxe  ,,1283.84,20541.44,PENDING
+ORD-00624,CAROL DAVIS,Oct 18 2023,west,sport,Resistance Bands,8.0,1365.58,10924.64,pend
+ORD-00836,Yara Carter,May 22 2024,n,cloth,Yoga Pants,-15.0,850.65,12759.75,Complete
+ORD-00621,samuel young,31/08/2023,West,sports,Yoga Mat,8.0,1129.44,9035.52,Complete
+ORD-00460,  David Lee  ,31/01/2023,west,Sports,Resistance Bands,,1100.74,9906.66,pend
+ORD-00676,Tina King,2024-12-31,SOUTH,book,The Pragmatic Programmer,4.0,158.52,634.08,
+ORD-00461,  David Lee  ,19/03/2024,e,CLOTHING,Winter Jacket,11.0,1252.09,13772.99,Cancelled
+ORD-00704,Tina King,25/03/2023,west,furn,Coffee Table,16.0,603.25,9652.0,
+ORD-00214,Isabella Clark,06/01/2023,WEST,sport,Protein Shaker,-5.0,245.59,1227.95,done
+ORD-00631,bob smith,14/05/2024,w,books,ML Fundamentals,18.0,1498.54,26973.72,RETURNED
+ORD-00102,peter hall,2024-01-28,north,ELECTRONICS,Wireless Headphones,14.0,608.07,8512.98,pending
+ORD-01056,Zoe Mitchell,2023-04-17,North,food & bev,Coconut Oil,4.0,1493.07,5972.28,cancel
+ORD-00380,Karen Harris,23/12/2023,west,,RC Car,2.0,1383.2,2766.4,Complete
+ORD-00026,Yara Carter,10/07/2024,North,furniture,Bookshelf,20.0,1497.0,29940.0,Cancelled
+ORD-00642,Alice Johnson,Dec 18 2024,west,Toys,Board Game Deluxe,,689.94,11728.98,Complete
+ORD-01004,peter hall,2023-04-10,South,CLOTHING,Yoga Pants,5.0,852.52,4262.6,
+ORD-00906,CAROL DAVIS,May 16 2023,s,Food & Beverage,Organic Coffee 1kg,1.0,324.06,324.06,RETURNED
+ORD-00088,Rachel Allen,Sep 06 2023,south,furniture,Coffee Table,3.0,1088.64,3265.92,canceled
+ORD-00999,Yara Carter,2023-04-24,n,toy,LEGO Classic Set,15.0,1199.49,17992.35,completed
+ORD-00381,  David Lee  ,Dec 16 2024,WEST,Sports,Jump Rope,6.0,688.51,4131.06,cancelled
+ORD-00963,Grace Martinez,16/06/2023,West,Furniture,Standing Desk,13.0,138.34,1798.42,Cancelled
+ORD-01185,Tina King,11/12/2023,SOUTH,food,  Protein Bar Pack  ,12.0,1406.15,16873.8,Completed
+ORD-00346,Uma Scott,06/12/2024,w,sports,Resistance Bands,13.0,1345.21,17487.73,COMPLETED
+ORD-00772,Tina King,22/11/2023,south,Clothing,Denim Jeans,17.0,1230.95,20926.15,cancel
+ORD-00104,Yara Carter,2024-08-30,North,CLOTHING,Winter Jacket,14.0,22.25,311.5,COMPLETED
+ORD-00230,Uma Scott,Aug 10 2024,SOUTH,clothing,Denim Jeans,15.0,569.56,,pending
+ORD-00623,,2023-03-30,South,Food & Beverage,Green Tea Box,20.0,1031.42,20628.4,Complete
+ORD-00806,Wendy Baker,2024-01-06,west,Electronics,Smart Watch,20.0,692.84,13856.8,Complete
+ORD-00944,Olivia Lewis,2023-01-10,North,food & bev,Organic Coffee 1kg,12.0,1404.69,16856.28,pend
+ORD-00618,Mia Thompson,Oct 03 2024,south,ELECTRONICS,Wireless Headphones,1.0,512.03,512.03,canceled
+ORD-00147,Mia Thompson,18/01/2023,West,Toys,Board Game Deluxe,,762.36,13722.48,CANCELLED
+ORD-00005,Grace Martinez,13/06/2023,WEST,cloth,Running Shoes,19.0,1083.09,20578.71,returned
+ORD-00837,Quinn Walker,27/10/2024,west,Sports,Jump Rope,2.0,,360.86,done
+ORD-00660,JAMES WHITE,2024-10-25,south,Toys,Board Game Deluxe,15.0,1141.88,17128.2,completed
+ORD-01126,Zoe Mitchell,2023-08-15,w,food,Protein Bar Pack,20.0,939.73,18794.6,CANCELLED
+ORD-00074,Yara Carter,2023-10-15,w,Electronics,Smart Watch,1.0,1344.17,1344.17,RETURNED
+ORD-00264,henry brown,25/08/2024,,elec,Laptop Pro 15,12.0,1186.03,14232.36,Pending
+ORD-00081,Victor Green,,e,book,ML Fundamentals,20.0,147.39,2947.8,canceled
+ORD-00306,Olivia Lewis,2023-03-31,West,toy,Board Game Deluxe,3.0,286.59,,Pending
+ORD-00456,Yara Carter,Jun 29 2023,w,toy,Art Kit,20.0,90.91,1818.2,Returned
+ORD-01190,Zoe Mitchell,06/09/2023,West,sports,Protein Shaker,16.0,1451.81,23228.96,pend
+ORD-00152,,2023-01-29,EAST,cloth,Denim Jeans,7.0,141.62,991.34,pending
+ORD-00232,peter hall,2023-03-10,NORTH,food,Protein Bar Pack,5.0,1031.8,5159.0,COMPLETED
+ORD-00437,Karen Harris,06/06/2023,n,books,Python Data Science,13.0,908.85,11815.05,COMPLETED
+ORD-01150,Quinn Walker,2023-03-27,North,books,Clean Code,,1374.93,26123.67,CANCELLED
+ORD-00962,Frank Thomas,Oct 08 2023,east,food & bev,Coconut Oil,2.0,363.34,726.68,COMPLETED
+ORD-00432,Alice Johnson,Jan 29 2024,w,sport,Jump Rope,3.0,812.49,2437.47,Complete
+ORD-00066,Olivia Lewis,Nov 23 2023,n,,The Pragmatic Programmer,14.0,178.15,2494.1,CANCELLED
+ORD-00231,Olivia Lewis,,WEST,sport,  Resistance Bands  ,9.0,357.05,3213.45,COMPLETED
+ORD-00912,Olivia Lewis,14/08/2023,East,Food & Beverage,Protein Bar Pack,20.0,828.56,16571.2,pending
+ORD-01024,bob smith,05/04/2024,e,sport,Yoga Mat,8.0,450.07,3600.56,COMPLETED
+ORD-01134,Wendy Baker,Aug 13 2023,NORTH,ELECTRONICS,Gaming Mouse,17.0,868.93,14771.81,PENDING
+ORD-00485,Isabella Clark,Aug 31 2024,North,ELECTRONICS,USB-C Hub,16.0,683.81,10940.96,cancelled
+ORD-00326,JAMES WHITE,Aug 10 2023,east,ELECTRONICS,USB-C Hub,12.0,680.6,,Pending
+ORD-00765,Frank Thomas,31/07/2024,EAST,sports,Yoga Mat,10.0,897.57,8975.7,done
+ORD-00238,Karen Harris,Apr 04 2024,South,cloth,Yoga Pants,-10.0,1365.05,13650.5,pending
+ORD-00760,Zoe Mitchell,2024-05-07,e,toys,RC Car,7.0,411.43,2880.01,canceled
+ORD-01147,Wendy Baker,May 16 2024,west,sports,Protein Shaker,,1494.79,20927.06,Pending
+ORD-00527,CAROL DAVIS,Dec 26 2024,EAST,ELECTRONICS,Wireless Headphones,11.0,255.99,2815.89,Returned
+ORD-00907,Rachel Allen,Mar 03 2023,,sport,Yoga Mat,12.0,1218.6,14623.2,Complete
+ORD-00133,Emma Wilson,19/05/2023,SOUTH,Furniture,Office Chair,14.0,1161.87,16266.18,returned
+ORD-00257,Wendy Baker,02/06/2024,South,Sports,Yoga Mat,6.0,103.1,618.6,RETURNED
+ORD-00253,Tina King,29/10/2023,north,ELECTRONICS,Gaming Mouse,5.0,615.47,3077.35,Completed
+ORD-00860,Uma Scott,2023-01-06,South,Toys,Art Kit,2.0,245.3,490.6,returned
+ORD-01196,Yara Carter,Sep 22 2024,SOUTH,toy,RC Car,8.0,53909.9,11055.36,Cancelled
+ORD-00885,Quinn Walker,Jan 19 2024,WEST,elec,USB-C Hub,10.0,41.94,419.4,returned
+ORD-00611,samuel young,13/03/2023,NORTH,toys,Art Kit,6.0,1110.08,6660.48,canceled
+ORD-01161,bob smith,16/02/2024,s,toy,LEGO Classic Set,2.0,370.88,741.76,pending
+ORD-01088,CAROL DAVIS,2024-01-22,,Food & Beverage,Coconut Oil,6.0,-124.32,745.92,COMPLETED
+ORD-00930,JAMES WHITE,Jan 11 2024,east,food & bev,Protein Bar Pack,8.0,668.1,5344.8,PENDING
+ORD-00048,Zoe Mitchell,02/12/2024,east,Food & Beverage,Coconut Oil,10.0,727.0,7270.0,Returned
+ORD-00614,samuel young,Aug 07 2024,west,Toys,Board Game Deluxe,12.0,,10147.32,Cancelled
+ORD-00666,Victor Green,2024-06-23,East,toy,Puzzle 1000pc,1.0,568.03,568.03,Pending
+ORD-00537,Grace Martinez,Aug 09 2024,South,toys,LEGO Classic Set,18.0,1354.82,24386.76,Pending
+ORD-00111,peter hall,17/02/2023,west,furn,Bookshelf,2.0,1205.07,2410.14,Complete
+ORD-00142,Noah Garcia,,east,food,Protein Bar Pack,4.0,698.63,2794.52,Returned
+ORD-01100,XAVIER NELSON,2023-02-28,West,furn,Filing Cabinet,14.0,1175.01,16450.14,Cancelled
+ORD-00134,Quinn Walker,19/01/2024,West,food & bev,Granola Mix,7.0,11.25,78.75,cancel
+ORD-00602,Olivia Lewis,2023-04-27,w,Clothing,Winter Jacket,15.0,976.61,14649.15,completed

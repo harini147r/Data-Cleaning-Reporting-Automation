@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Data Quality Report</title>
+<style>
+  body { font-family: Segoe UI, Arial, sans-serif; margin: 0; background: #f4f6f9; color: #333; }
+  header { background: #1F4E79; color: white; padding: 24px 40px; }
+  header h1 { margin: 0; font-size: 28px; }
+  header p  { margin: 4px 0 0; opacity: .8; font-size: 14px; }
+  .container { max-width: 1200px; margin: 30px auto; padding: 0 20px; }
+  .card { background: white; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,.1);
+           padding: 24px; margin-bottom: 28px; }
+  .card h2 { margin-top: 0; color: #1F4E79; border-bottom: 2px solid #D9E1F2; padding-bottom: 10px; }
+  .kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; }
+  .kpi { background: #D9E1F2; border-radius: 8px; padding: 16px; text-align: center; }
+  .kpi .value { font-size: 32px; font-weight: bold; color: #1F4E79; }
+  .kpi .label { font-size: 13px; color: #555; margin-top: 4px; }
+  .kpi.positive { background: #C6EFCE; } .kpi.positive .value { color: #276221; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th { background: #1F4E79; color: white; padding: 10px 12px; text-align: left; }
+  td { padding: 8px 12px; border-bottom: 1px solid #e0e0e0; }
+  tr:nth-child(even) td { background: #f9f9f9; }
+  footer { text-align: center; color: #999; font-size: 12px; padding: 24px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>📊 Data Quality Report</h1>
+  <p>File: <strong>my_file (1).csv</strong> &nbsp;|&nbsp;
+     Raw Rows: <strong>20</strong> &nbsp;|&nbsp;
+     Generated: <strong>2026-10-04 22:24</strong></p>
+</header>
+<div class="container">
+
+  <div class="card">
+    <h2>🔑 Improvement Highlights</h2>
+    <div class="kpi-grid">
+      <div class="kpi positive">
+        <div class="value">0.0%</div>
+        <div class="label">Missing Data Reduced</div>
+      </div>
+      <div class="kpi positive">
+        <div class="value">0</div>
+        <div class="label">Duplicates Removed</div>
+      </div>
+      <div class="kpi positive">
+        <div class="value">+0.0%</div>
+        <div class="label">Completeness Gained</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>📋 Dataset Summary (Before vs After)</h2>
+    <table class="dataframe table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Snapshot</th>
+      <th>Total Rows</th>
+      <th>Duplicate Rows</th>
+      <th>Duplicate %</th>
+      <th>Total Missing Cells</th>
+      <th>Missing %</th>
+      <th>Completeness Score (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Before Cleaning</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>25</td>
+      <td>11.36</td>
+      <td>88.64</td>
+    </tr>
+    <tr>
+      <td>After Cleaning</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>25</td>
+      <td>11.36</td>
+      <td>88.64</td>
+    </tr>
+  </tbody>
+</table>
+  </div>
+
+  <div class="card">
+    <h2>✅ Validation Results</h2>
+    <table>
+      <thead><tr><th>Check</th><th>Status</th><th>Count</th><th>Detail</th></tr></thead>
+      <tbody><tr>
+            <td>No duplicate rows</td>
+            <td style="color:#28a745;font-weight:bold">PASS</td>
+            <td>0.0</td>
+            <td>OK</td>
+        </tr><tr>
+            <td>Overall completeness ≥ 90%</td>
+            <td style="color:#ffc107;font-weight:bold">WARN</td>
+            <td>88.64</td>
+            <td>88.64% complete</td>
+        </tr></tbody>
+    </table>
+  </div>
+
+  <div class="card">
+    <h2>📊 Column Profile — Before Cleaning</h2>
+    <table class="dataframe table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Column</th>
+      <th>Expected Type</th>
+      <th>Actual Dtype</th>
+      <th>Missing Count</th>
+      <th>Missing %</th>
+      <th>Unique Values</th>
+      <th>Type Issues</th>
+      <th>Outlier Count</th>
+      <th>Whitespace Issues</th>
+      <th>Case Issues</th>
+      <th>Negative Count</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rank</td>
+      <td>unknown</td>
+      <td>int64</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>19</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Peak</td>
+      <td>unknown</td>
+      <td>str</td>
+      <td>11</td>
+      <td>55.0</td>
+      <td>7</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>All Time Peak</td>
+      <td>unknown</td>
+      <td>str</td>
+      <td>14</td>
+      <td>70.0</td>
+      <td>6</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Actual gross</td>
+      <td>unknown</td>
+      <td>str</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Adjusted gross (in 2022 dollars)</td>
+      <td>unknown</td>
+      <td>str</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Artist</td>
+      <td>unknown</td>
+      <td>str</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>9</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Tour title</td>
+      <td>unknown</td>
+      <td>str</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Year(s)</td>
+      <td>unknown</td>
+      <td>str</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>16</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Shows</td>
+      <td>unknown</td>
+      <td>int64</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>18</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Average gross</td>
+      <td>unknown</td>
+      <td>str</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Ref.</td>
+      <td>unknown</td>
+      <td>str</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>
+  </div>
+
+  <div class="card">
+    <h2>✨ Column Profile — After Cleaning</h2>
+    <table class="dataframe table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Column</th>
+      <th>Expected Type</th>
+      <th>Actual Dtype</th>
+      <th>Missing Count</th>
+      <th>Missing %</th>
+      <th>Unique Values</th>
+      <th>Type Issues</th>
+      <th>Outlier Count</th>
+      <th>Whitespace Issues</th>
+      <th>Case Issues</th>
+      <th>Negative Count</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>rank</td>
+      <td>unknown</td>
+      <td>int64</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>19</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>peak</td>
+      <td>unknown</td>
+      <td>str</td>
+      <td>11</td>
+      <td>55.0</td>
+      <td>7</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>all_time_peak</td>
+      <td>unknown</td>
+      <td>str</td>
+      <td>14</td>
+      <td>70.0</td>
+      <td>6</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>actualgross</td>
+      <td>unknown</td>
+      <td>str</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>adjustedgross_in_2022_dollars</td>
+      <td>unknown</td>
+      <td>str</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>artist</td>
+      <td>unknown</td>
+      <td>str</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>9</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>tour_title</td>
+      <td>unknown</td>
+      <td>str</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>years</td>
+      <td>unknown</td>
+      <td>str</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>16</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>shows</td>
+      <td>unknown</td>
+      <td>int64</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>18</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>average_gross</td>
+      <td>unknown</td>
+      <td>str</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>ref</td>
+      <td>unknown</td>
+      <td>str</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>
+  </div>
+
+</div>
+<footer>Generated by Data Cleaning &amp; Reporting Automation &bull; 2026</footer>
+</body>
+</html>

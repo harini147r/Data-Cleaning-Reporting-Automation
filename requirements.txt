@@ -1,0 +1,9 @@
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+xlrd>=2.0.1
+jinja2>=3.1.0
+colorama>=0.4.6
+XlsxWriter>=3.1.0
+streamlit>=1.30.0
+plotly>=5.18.0
